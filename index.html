@@ -1,0 +1,178 @@
+<!doctype html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>KBO 정보 프로그램</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <p class="eyebrow">2026 KBO League</p>
+        <h1>KBO 정보 프로그램</h1>
+        <p class="header-copy">팀 기록과 선수 기록을 팀별로 확인합니다.</p>
+      </div>
+      <div class="header-actions">
+        <span id="updatedAt">업데이트 확인 중</span>
+        <a class="official-link" href="https://www.koreabaseball.com/" target="_blank" rel="noreferrer">
+          KBO 공식 사이트
+        </a>
+      </div>
+    </header>
+
+    <nav class="top-nav" aria-label="KBO 메뉴">
+      <span class="nav-title">KBO</span>
+      <button class="nav-button is-active" type="button" data-view="dashboard">KBO 팀 기록 대시보드</button>
+      <button class="nav-button" type="button" data-view="players">KBO 선수</button>
+      <button class="nav-button" type="button" data-view="rankings">KBO 선수 순위</button>
+    </nav>
+
+    <main>
+      <section class="view-panel is-active" id="dashboardView">
+        <section class="controls" aria-label="팀 검색과 정렬">
+          <label class="search-field">
+            <span>검색</span>
+            <input id="teamSearch" type="search" placeholder="팀명, 연고지, 감독 검색" autocomplete="off" />
+          </label>
+          <label class="select-field">
+            <span>정렬</span>
+            <select id="sortSelect">
+              <option value="rank">순위</option>
+              <option value="winPct">승률</option>
+              <option value="battingAverage">타율</option>
+              <option value="era">평균자책점</option>
+              <option value="homeRuns">홈런</option>
+              <option value="strikeouts">탈삼진</option>
+              <option value="runs">득점</option>
+            </select>
+          </label>
+          <button class="refresh-button" id="refreshButton" type="button">기록 다시 읽기</button>
+        </section>
+
+        <section class="summary-strip" aria-label="리그 요약">
+          <div>
+            <strong id="leaderTeam">-</strong>
+            <span>현재 1위</span>
+          </div>
+          <div>
+            <strong id="bestAvg">-</strong>
+            <span>최고 팀 타율</span>
+          </div>
+          <div>
+            <strong id="bestEra">-</strong>
+            <span>최저 평균자책점</span>
+          </div>
+        </section>
+
+        <section class="content-grid">
+          <div>
+            <div class="table-wrap">
+              <table class="stats-table">
+                <thead>
+                  <tr>
+                    <th>순위</th>
+                    <th>팀</th>
+                    <th>승</th>
+                    <th>무</th>
+                    <th>패</th>
+                    <th>승률</th>
+                    <th>타율</th>
+                    <th>평균자책점</th>
+                    <th>안타</th>
+                    <th>홈런</th>
+                    <th>탈삼진</th>
+                    <th>득점</th>
+                    <th>실점</th>
+                  </tr>
+                </thead>
+                <tbody id="statsTableBody"></tbody>
+              </table>
+            </div>
+            <p class="source-note">
+              순위/승무패는 KBO 영문 순위표, 팀 타격/투수 기록은 KBO 모바일 기록실 API를 기준으로 갱신합니다.
+            </p>
+          </div>
+          <aside class="team-detail" id="teamDetail" aria-label="선택한 팀 상세 기록"></aside>
+        </section>
+      </section>
+
+      <section class="view-panel" id="playersView">
+        <section class="player-layout">
+          <aside class="team-selector" aria-label="선수 팀 선택">
+            <h2>KBO 선수</h2>
+            <div id="playerTeamList"></div>
+          </aside>
+          <section class="player-list-panel">
+            <div class="player-toolbar">
+              <label class="search-field">
+                <span>선수 검색</span>
+                <input id="playerSearch" type="search" placeholder="선수 이름 검색" autocomplete="off" />
+              </label>
+              <label class="select-field">
+                <span>유형</span>
+                <select id="playerTypeFilter">
+                  <option value="all">전체</option>
+                  <option value="hitter">타자</option>
+                  <option value="pitcher">투수</option>
+                </select>
+              </label>
+            </div>
+            <div class="player-columns">
+              <div>
+                <h3 id="selectedTeamTitle">팀 선수</h3>
+                <div class="player-list" id="playerList"></div>
+              </div>
+              <aside class="player-detail" id="playerDetail" aria-label="선택한 선수 상세 기록"></aside>
+            </div>
+            <p class="source-note">
+              선수 명단/포지션은 KBO 구단별 등록 현황, 기록은 KBO 기록실을 기준으로 갱신합니다. 공식 표에 없는 값은 -로 표시합니다.
+            </p>
+          </section>
+        </section>
+      </section>
+
+      <section class="view-panel" id="rankingsView">
+        <section class="rankings-panel">
+          <div class="ranking-header">
+            <div>
+              <h2>KBO 선수 순위</h2>
+              <p>타자와 투수 주요 기록 TOP 20을 확인합니다.</p>
+            </div>
+            <div class="ranking-type-tabs" aria-label="선수 순위 유형">
+              <button class="ranking-type-button is-active" type="button" data-ranking-type="hitter">타자</button>
+              <button class="ranking-type-button" type="button" data-ranking-type="pitcher">투수</button>
+            </div>
+          </div>
+          <div class="ranking-metrics" id="rankingMetricButtons" aria-label="순위 항목"></div>
+          <div class="ranking-title-row">
+            <h3 id="rankingTitle">타자 타율 TOP 20</h3>
+            <span id="rankingUpdatedAt">-</span>
+          </div>
+          <div class="table-wrap ranking-table-wrap">
+            <table class="stats-table ranking-table">
+              <thead id="rankingTableHead"></thead>
+              <tbody id="rankingTableBody"></tbody>
+            </table>
+          </div>
+          <p class="source-note">KBO 공식 선수 리더보드를 기준으로 15분마다 갱신합니다.</p>
+        </section>
+      </section>
+    </main>
+
+    <footer>
+      <span>예약 작업이 15분마다 기록을 갱신하고, 열린 화면은 5분마다 새 기록을 다시 읽습니다.</span>
+    </footer>
+
+    <script src="data/team-stats.js"></script>
+    <script src="data/player-stats.js"></script>
+    <script src="data/player-rankings.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

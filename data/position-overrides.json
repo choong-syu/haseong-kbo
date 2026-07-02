@@ -1,0 +1,2030 @@
+{
+  "50030": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "So Hyeong-jun"
+  },
+  "50054": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "manual-review",
+    "code": "LF",
+    "englishName": "Cheon Seong-ho",
+    "note": "2026 LG outfield usage"
+  },
+  "50150": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Son Ho-young"
+  },
+  "50157": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Kim Yun-sik"
+  },
+  "50204": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Park Ji-hoon"
+  },
+  "50458": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Kim Ji-chan"
+  },
+  "50464": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Seung-min"
+  },
+  "50500": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "manual",
+    "note": "manual correction"
+  },
+  "50556": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Choi Jun-yong"
+  },
+  "50596": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "manual-review",
+    "code": "RP",
+    "note": "KBO registered pitcher; bullpen role"
+  },
+  "50657": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Park Min"
+  },
+  "50662": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Jung Hai-young"
+  },
+  "50705": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kang Jae-min"
+  },
+  "50707": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "manual-review",
+    "code": "LF",
+    "englishName": "Choi In-ho"
+  },
+  "50709": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "manual-review",
+    "code": "SS",
+    "englishName": "Park Jung-hyun"
+  },
+  "50812": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Park Si-hoo"
+  },
+  "50820": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Jeon Ui-san"
+  },
+  "50854": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Choi Ji-hoon"
+  },
+  "50859": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Oh Won-seok"
+  },
+  "50902": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Kim Han-byul"
+  },
+  "50992": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Kim Tae-gyeong"
+  },
+  "51003": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Kwon Dong-jin"
+  },
+  "51058": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Han Cha-hyeon"
+  },
+  "51100": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Lee Young-bin"
+  },
+  "51154": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Kim Jin-su"
+  },
+  "51203": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "An Jae-seok"
+  },
+  "51230": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Dong-ju"
+  },
+  "51264": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Choi Seung-yong"
+  },
+  "51344": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Kim Whee-jip"
+  },
+  "51417": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "manual-review",
+    "code": "CF",
+    "englishName": "Kim Hyeon-joon"
+  },
+  "51460": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Jae-hee"
+  },
+  "51516": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Kim Jin-uk"
+  },
+  "51526": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Woo Kang-hoon"
+  },
+  "51528": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Son Seong-bin"
+  },
+  "51551": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Na Seung-yeup"
+  },
+  "51640": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Aderlin Rodríguez"
+  },
+  "51761": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Bae Dong-hyun"
+  },
+  "51764": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "manual-review",
+    "code": "3B",
+    "englishName": "Jung Min-kyu"
+  },
+  "51865": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Cho Hyeong-woo"
+  },
+  "51867": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Kim Keon-woo"
+  },
+  "51868": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Ko Myeong-jun"
+  },
+  "51897": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Jo Byeong-hyeon"
+  },
+  "51907": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Kim Ju-won"
+  },
+  "51994": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Han Jae-seung"
+  },
+  "52001": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Ahn Hyun-min"
+  },
+  "52043": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Wes Benjamin"
+  },
+  "52060": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Park Yeong-hyun"
+  },
+  "52121": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Moon Jeong-bin"
+  },
+  "52154": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Lee Ju-heon"
+  },
+  "52204": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Byeong-heon"
+  },
+  "52348": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Park Chan-hyeok"
+  },
+  "52504": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Kim Dong-hyeok"
+  },
+  "52514": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Kim Se-min"
+  },
+  "52591": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Yoon Dong-hee"
+  },
+  "52605": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Kim Do-yeong"
+  },
+  "52634": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Park Sang-jun"
+  },
+  "52641": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "manual-review",
+    "code": "SP",
+    "note": "KBO registered pitcher; starter usage"
+  },
+  "52731": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Park Jun-yeong"
+  },
+  "52764": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Heo In-seo"
+  },
+  "52809": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Jeon Young-jun"
+  },
+  "52902": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lim Ji-min"
+  },
+  "53036": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Ryu Hyun-in"
+  },
+  "53123": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Austin Dean"
+  },
+  "53296": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Yun Jun-ho"
+  },
+  "53312": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Kim Gun-hee"
+  },
+  "53344": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Kim Dong-heon"
+  },
+  "53375": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "manual",
+    "note": "manual correction"
+  },
+  "53404": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Ryu Seung-min"
+  },
+  "53540": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Ki-jun"
+  },
+  "53554": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Kim Min-suk"
+  },
+  "53562": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Jin-ha"
+  },
+  "53609": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kwak Do-gyu"
+  },
+  "53764": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Moon Hyun-bin"
+  },
+  "53827": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Guillermo Heredia"
+  },
+  "53892": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Ro-un"
+  },
+  "53893": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "manual-review",
+    "code": "3B",
+    "englishName": "Kim Min-jun"
+  },
+  "53919": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Shin Yeong-woo"
+  },
+  "54263": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Taek-yeon"
+  },
+  "54303": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Park Chae-wool"
+  },
+  "54319": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Yun-ha"
+  },
+  "54400": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Lewin Díaz"
+  },
+  "54529": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Víctor Reyes"
+  },
+  "54610": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Sung Yeong-tak"
+  },
+  "54640": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "James Naile"
+  },
+  "54729": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Hwang Jun-seo"
+  },
+  "54730": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Yonathan Perlaza"
+  },
+  "54768": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Cho Dong-uk"
+  },
+  "54795": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Hwang Young-mook"
+  },
+  "54812": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Jeong Jun-jae"
+  },
+  "54843": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Keisho Shirakawa"
+  },
+  "54904": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Son Ju-hwan"
+  },
+  "54910": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Kim Jun-won"
+  },
+  "55121": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Park Si-won"
+  },
+  "55130": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Anders Tolhurst"
+  },
+  "55167": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Young-woo"
+  },
+  "55221": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Han-jung"
+  },
+  "55239": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Zach Logue"
+  },
+  "55252": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Park Jun-soon"
+  },
+  "55268": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Choi Min-seok"
+  },
+  "55301": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Jun-woo"
+  },
+  "55348": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Lachlan Wells"
+  },
+  "55371": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Gwon Hyuk-bin"
+  },
+  "55392": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Eo Joon-seo"
+  },
+  "55393": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Yeo Dong-uk"
+  },
+  "55394": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Park Jeong-hun"
+  },
+  "55420": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Baek-san"
+  },
+  "55425": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Kim Sang-jun"
+  },
+  "55438": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Sim Jae-hoon"
+  },
+  "55509": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Park Kun-woo"
+  },
+  "55530": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "manual-review",
+    "code": "SS",
+    "englishName": "Park Chan-hyung"
+  },
+  "55610": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Kim Tae-hyeong"
+  },
+  "55636": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Park Jae-hyun"
+  },
+  "55743": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Jeong Woo-joo"
+  },
+  "55897": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "manual-review",
+    "code": "3B",
+    "englishName": "Hong Dae-in"
+  },
+  "55903": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Riley Thompson"
+  },
+  "55912": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Logan Allen"
+  },
+  "55926": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Jeong Hyun-chang"
+  },
+  "55995": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Tae-hoon"
+  },
+  "56011": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Sugimoto Koki"
+  },
+  "56032": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Matthew Sauer"
+  },
+  "56034": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Sam Hilliard"
+  },
+  "56146": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Yacksel Rios"
+  },
+  "56305": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Trenton Brooks"
+  },
+  "56312": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Kenny Rosenberg"
+  },
+  "56337": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Park Ji-sung"
+  },
+  "56338": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Choi Jae-young"
+  },
+  "56345": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Jung Da-hun"
+  },
+  "56348": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Kanakubo Yuto"
+  },
+  "56464": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Jack O'Loughlin"
+  },
+  "56503": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Iimura Shota"
+  },
+  "56523": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Jeremy Beasley"
+  },
+  "56531": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Elvin Rodríguez"
+  },
+  "56554": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Jun-seo"
+  },
+  "56626": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Harold Castro"
+  },
+  "56633": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Jarryd Dale"
+  },
+  "56637": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "manual-review",
+    "code": "LF",
+    "englishName": "Kim Min-kyu"
+  },
+  "56709": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Park Jun-young"
+  },
+  "56712": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Wilkel Hernandez"
+  },
+  "56719": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Wang Yan-cheng"
+  },
+  "56724": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Owen White"
+  },
+  "56754": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Oh Jae-won"
+  },
+  "56823": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Takeda Shota"
+  },
+  "56840": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Kim Min-jun"
+  },
+  "56841": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Anthony Veneziano"
+  },
+  "56855": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Mitch White"
+  },
+  "56909": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Shin Jae-in"
+  },
+  "56911": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Toda Natsuki"
+  },
+  "56949": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Ko Jun-hwi"
+  },
+  "56950": {
+    "position": "지명타자",
+    "positionGroup": "지명타자",
+    "source": "manual-review",
+    "code": "DH",
+    "englishName": "Blaine Crim"
+  },
+  "56966": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Curtis Taylor"
+  },
+  "60146": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Seung-hyun"
+  },
+  "60558": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Oh Tae-gon"
+  },
+  "61101": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Im Chan-kyu"
+  },
+  "61145": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Woo-chan"
+  },
+  "61895": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Seo Jin-yong"
+  },
+  "62234": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Ryu Ji-hyuk"
+  },
+  "62360": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Tae-hoon"
+  },
+  "62404": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Koo Ja-wook"
+  },
+  "62415": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Park Hae-min"
+  },
+  "62528": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Won-jung"
+  },
+  "62754": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Im Gi-yeong"
+  },
+  "62802": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Park Seung-wook"
+  },
+  "62869": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Moon Seung-won"
+  },
+  "62907": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Park Min-woo"
+  },
+  "62931": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "manual-review",
+    "code": "SS",
+    "englishName": "No Jin-hyuk"
+  },
+  "62934": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Kim Seong-uk"
+  },
+  "62947": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Na Sung-bum"
+  },
+  "62951": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Hyeong-beom"
+  },
+  "63123": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Kang Seung-ho"
+  },
+  "63202": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Jang Seung-hyun"
+  },
+  "63248": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Ham Deok-ju"
+  },
+  "63257": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "manual-review",
+    "code": "LF",
+    "englishName": "Kim In-tae"
+  },
+  "63260": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Lee Woo-sung"
+  },
+  "63342": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Cho Sang-woo"
+  },
+  "63492": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Jae-ik"
+  },
+  "63722": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Han Seung-taek"
+  },
+  "63950": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Jang Hyun-sik"
+  },
+  "63963": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Kwon Hui-dong"
+  },
+  "64001": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Ko Young-pyo"
+  },
+  "64004": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Kim Min-hyuck"
+  },
+  "64006": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Sim Woo-jun"
+  },
+  "64021": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Park Se-woong"
+  },
+  "64022": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "An Joong-yeol"
+  },
+  "64115": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Jang Jun-won"
+  },
+  "64340": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Im Ji-yeol"
+  },
+  "64346": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Lim Byeong-wuk"
+  },
+  "64350": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Ha Yeong-min"
+  },
+  "64504": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Oh Yoon-suk"
+  },
+  "64646": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Park Chan-ho"
+  },
+  "64861": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Geun-wook"
+  },
+  "65060": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Ju Kwon"
+  },
+  "65062": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Kim Jae-yoon"
+  },
+  "65117": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Sang-kyu"
+  },
+  "65207": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Shin Min-jae"
+  },
+  "65516": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Bae Je-seong"
+  },
+  "65522": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Gang-hyun"
+  },
+  "65586": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Jeon Byeong-woo"
+  },
+  "65616": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Lee Min-woo"
+  },
+  "65653": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Kim Ho-ryung"
+  },
+  "65703": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Lee Do-yun"
+  },
+  "65769": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Beom-su"
+  },
+  "65898": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Kim Woong-bin"
+  },
+  "65933": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Koo Chang-mo"
+  },
+  "66018": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Seon-gi"
+  },
+  "66108": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Hong Chang-ki"
+  },
+  "66112": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Kim Ki-yeon"
+  },
+  "66209": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Jo Soo-haeng"
+  },
+  "66291": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Lee Young-ha"
+  },
+  "66606": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Choi Won-jun"
+  },
+  "66609": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Jeon Sang-hyun"
+  },
+  "66614": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Kim Kyu-sung"
+  },
+  "66662": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Shin Beom-soo"
+  },
+  "66704": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Kim Tae-yean"
+  },
+  "66706": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "manual-review",
+    "code": "CF",
+    "englishName": "Jang Jin-hyuk"
+  },
+  "66965": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Do Tae-hun"
+  },
+  "67143": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Son Ju-young"
+  },
+  "67207": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Lee Yu-chan"
+  },
+  "67266": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Park Chi-guk"
+  },
+  "67421": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Choi Ji-gwang"
+  },
+  "67449": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Kim Seong-yoon"
+  },
+  "67539": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Na Gyun-an"
+  },
+  "67609": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Park Jung-woo"
+  },
+  "67644": {
+    "position": "지명타자",
+    "positionGroup": "지명타자",
+    "source": "manual-review",
+    "code": "DH",
+    "englishName": "Lee Jeong-hun"
+  },
+  "67703": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Park Sang-won"
+  },
+  "67893": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Park Seong-han"
+  },
+  "67905": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Cheon Jae-hwan"
+  },
+  "67954": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Jin-ho"
+  },
+  "68043": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Min"
+  },
+  "68050": {
+    "position": "지명타자",
+    "positionGroup": "지명타자",
+    "source": "manual-review",
+    "code": "DH",
+    "englishName": "Kang Baek-ho"
+  },
+  "68089": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Cho Dae-hyun"
+  },
+  "68110": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Song Chan-eui"
+  },
+  "68119": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Moon Sung-ju"
+  },
+  "68205": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Jeon Min-jae"
+  },
+  "68220": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Gwak Been"
+  },
+  "68249": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Park Shin-zi"
+  },
+  "68260": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "manual-review",
+    "code": "RP",
+    "note": "KBO registered pitcher; bullpen role"
+  },
+  "68341": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "An Woo-jin"
+  },
+  "68362": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Choo Jae-hyun"
+  },
+  "68415": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Yang Chang-seop"
+  },
+  "68525": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "manual",
+    "note": "manual correction"
+  },
+  "68639": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Ha Jun-young"
+  },
+  "68646": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Han Jun-su"
+  },
+  "68700": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Lee Won-seok"
+  },
+  "68830": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Jeong-woo"
+  },
+  "68868": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Choi Jun-woo"
+  },
+  "68912": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Kim Hyung-jun"
+  },
+  "69041": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Son Dong-hyun"
+  },
+  "69047": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Jeon Yong-ju"
+  },
+  "69054": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Sang-dong"
+  },
+  "69100": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Gu Bon-hyeok"
+  },
+  "69102": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Moon Bo-gyeong"
+  },
+  "69168": {
+    "position": "선발/구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP/RP",
+    "englishName": "Lee Sang-yung"
+  },
+  "69360": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Cho Young-gun"
+  },
+  "69403": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Yang Woo-hyun"
+  },
+  "69418": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Park Seung-kyu"
+  },
+  "69442": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Kim Do-hwan"
+  },
+  "69446": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Won Tae-in"
+  },
+  "69517": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Go Seung-min"
+  },
+  "69645": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Jang Yoo-ho"
+  },
+  "69727": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Byun Woo-hyuk"
+  },
+  "69737": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Roh Si-hwan"
+  },
+  "69962": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Song Myung-gi"
+  },
+  "69969": {
+    "position": "마무리투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "CP",
+    "englishName": "Chun Sa-min"
+  },
+  "69992": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "manual-review",
+    "code": "2B",
+    "englishName": "Choi Jeong-won"
+  },
+  "72443": {
+    "position": "지명타자",
+    "positionGroup": "지명타자",
+    "source": "manual-review",
+    "code": "DH",
+    "englishName": "Choi Hyoung-woo"
+  },
+  "73117": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Woo Kyu-min"
+  },
+  "73211": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Noh Kyung-eun"
+  },
+  "74540": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Kang Min-ho"
+  },
+  "75847": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Choi Jeong"
+  },
+  "75867": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Kim Jin-sung"
+  },
+  "76118": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Won Jong-hyan"
+  },
+  "76232": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Yang Eui-ji"
+  },
+  "76267": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Choi Joo-hwan"
+  },
+  "76290": {
+    "position": "1루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "1B",
+    "englishName": "Kim Hyun-soo"
+  },
+  "76715": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Ryu Hyun-jin"
+  },
+  "77211": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Lee Yong-chan"
+  },
+  "77446": {
+    "position": "구원투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "RP",
+    "englishName": "Baek Jung-hyun"
+  },
+  "77532": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Son Ah-seop"
+  },
+  "77637": {
+    "position": "선발투수",
+    "positionGroup": "투수",
+    "source": "mykbostats",
+    "code": "SP",
+    "englishName": "Yang Hyeon-jong"
+  },
+  "78168": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Seo Geon-chang"
+  },
+  "78224": {
+    "position": "좌익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "LF",
+    "englishName": "Kim Jae-hwan"
+  },
+  "78288": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Choi Jae-hoon"
+  },
+  "78603": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Kim Sun-bin"
+  },
+  "79109": {
+    "position": "유격수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "SS",
+    "englishName": "Oh Ji-hwan"
+  },
+  "79215": {
+    "position": "우익수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "RF",
+    "englishName": "Park Kun-woo"
+  },
+  "79231": {
+    "position": "중견수",
+    "positionGroup": "외야수",
+    "source": "mykbostats",
+    "code": "CF",
+    "englishName": "Jung Soo-bin"
+  },
+  "79240": {
+    "position": "3루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "3B",
+    "englishName": "Heo Kyoung-min"
+  },
+  "79365": {
+    "position": "포수",
+    "positionGroup": "포수",
+    "source": "mykbostats",
+    "code": "C",
+    "englishName": "Park Dong-won"
+  },
+  "79402": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "Kim Sang-su"
+  },
+  "79608": {
+    "position": "2루수",
+    "positionGroup": "내야수",
+    "source": "mykbostats",
+    "code": "2B",
+    "englishName": "An Chi-hong"
+  }
+}
