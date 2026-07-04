@@ -1,7 +1,7 @@
 {
   "season": 2026,
   "asOf": "2026년 7월 3일 기준",
-  "fetchedAt": "2026-07-04T03:53:00.767Z",
+  "fetchedAt": "2026-07-04T06:54:27.322Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -949,7 +949,7 @@
       "innings": "36",
       "era": "3.25",
       "strikeouts": "29",
-      "whip": "1.25",
+      "whip": "1.28",
       "qs": "0"
     },
     {
@@ -1362,13 +1362,8 @@
       "battingAverage": "0.283",
       "atBats": "315",
       "homeRuns": "11",
-      "onBasePercentage": "0.327",
-      "walksHitByPitch": "23",
-      "ops": "0.778",
       "hits": "89",
-      "rbi": "46",
-      "sluggingPercentage": "0.451",
-      "strikeouts": "92"
+      "rbi": "46"
     },
     {
       "id": "62947",
@@ -5529,15 +5524,15 @@
       "type": "hitter",
       "pitchBat": "우투좌타",
       "transfer": "SK (2017~2018)<br>SK (2020)<br>SSG 랜더스 (2021~)",
-      "battingAverage": "0.337",
+      "battingAverage": "0.340",
       "atBats": "297",
       "homeRuns": "3",
-      "hits": "100",
+      "hits": "101",
       "rbi": "38",
-      "onBasePercentage": "0.441",
+      "onBasePercentage": "0.444",
       "walksHitByPitch": "57",
-      "ops": "0.879",
-      "sluggingPercentage": "0.438",
+      "ops": "0.885",
+      "sluggingPercentage": "0.441",
       "strikeouts": "40"
     },
     {
@@ -5564,7 +5559,7 @@
       "id": "56841",
       "name": "베니지아노",
       "teamId": "ssg",
-      "number": "41",
+      "number": "",
       "position": "선발투수",
       "positionGroup": "투수",
       "type": "pitcher",
@@ -5753,7 +5748,12 @@
       "atBats": "269",
       "homeRuns": "1",
       "hits": "77",
-      "rbi": "27"
+      "rbi": "27",
+      "onBasePercentage": "0.356",
+      "walksHitByPitch": "32",
+      "ops": "0.728",
+      "sluggingPercentage": "0.372",
+      "strikeouts": "41"
     },
     {
       "id": "51897",
