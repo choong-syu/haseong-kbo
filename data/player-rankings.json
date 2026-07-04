@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 7월 3일 기준",
-  "fetchedAt": "2026-07-04T11:08:25.558Z",
+  "asOf": "2026년 7월 4일 기준",
+  "fetchedAt": "2026-07-04T12:37:14.508Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -5795,28 +5795,6 @@
           "rank": 14
         },
         {
-          "id": "67449",
-          "name": "김성윤",
-          "team": "삼성",
-          "games": "63",
-          "plateAppearances": "248",
-          "atBats": "215",
-          "hits": "64",
-          "doubles": "11",
-          "triples": "2",
-          "homeRuns": "2",
-          "rbi": "29",
-          "runs": "39",
-          "steals": "14",
-          "walksHitByPitch": "24",
-          "strikeouts": "27",
-          "battingAverage": "0.298",
-          "onBasePercentage": "0.365",
-          "sluggingPercentage": "0.395",
-          "ops": "0.760",
-          "rank": 15
-        },
-        {
           "id": "52605",
           "name": "김도영",
           "team": "KIA",
@@ -5836,7 +5814,7 @@
           "onBasePercentage": "0.390",
           "sluggingPercentage": "0.612",
           "ops": "1.002",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "76290",
@@ -5858,7 +5836,7 @@
           "onBasePercentage": "0.358",
           "sluggingPercentage": "0.409",
           "ops": "0.767",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "56034",
@@ -5880,7 +5858,7 @@
           "onBasePercentage": "0.364",
           "sluggingPercentage": "0.542",
           "ops": "0.906",
-          "rank": 18
+          "rank": 17
         },
         {
           "id": "62234",
@@ -5902,7 +5880,7 @@
           "onBasePercentage": "0.389",
           "sluggingPercentage": "0.428",
           "ops": "0.817",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "62947",
@@ -5924,7 +5902,29 @@
           "onBasePercentage": "0.381",
           "sluggingPercentage": "0.524",
           "ops": "0.905",
-          "rank": 20
+          "rank": 19
+        },
+        {
+          "id": "62415",
+          "name": "박해민",
+          "team": "LG",
+          "games": "81",
+          "plateAppearances": "317",
+          "atBats": "265",
+          "hits": "77",
+          "doubles": "12",
+          "triples": "0",
+          "homeRuns": "3",
+          "rbi": "33",
+          "runs": "48",
+          "steals": "22",
+          "walksHitByPitch": "35",
+          "strikeouts": "42",
+          "battingAverage": "0.291",
+          "onBasePercentage": "0.366",
+          "sluggingPercentage": "0.370",
+          "ops": "0.736",
+          "rank": 19
         }
       ]
     },
@@ -7566,22 +7566,6 @@
           "rank": 18
         },
         {
-          "id": "56911",
-          "name": "토다",
-          "team": "NC",
-          "era": "4.74",
-          "games": "15",
-          "wins": "4",
-          "losses": "5",
-          "saves": "0",
-          "holds": "0",
-          "innings": "79 2/3",
-          "strikeouts": "64",
-          "whip": "1.44",
-          "qs": "5",
-          "rank": 19
-        },
-        {
           "id": "64021",
           "name": "박세웅",
           "team": "롯데",
@@ -7595,7 +7579,7 @@
           "strikeouts": "78",
           "whip": "1.50",
           "qs": "6",
-          "rank": 20
+          "rank": 19
         }
       ]
     },
@@ -10174,22 +10158,6 @@
           "rank": 17
         },
         {
-          "id": "56911",
-          "name": "토다",
-          "team": "NC",
-          "era": "4.74",
-          "games": "15",
-          "wins": "4",
-          "losses": "5",
-          "saves": "0",
-          "holds": "0",
-          "innings": "79 2/3",
-          "strikeouts": "64",
-          "whip": "1.44",
-          "qs": "5",
-          "rank": 18
-        },
-        {
           "id": "56719",
           "name": "왕옌청",
           "team": "한화",
@@ -10203,7 +10171,7 @@
           "strikeouts": "71",
           "whip": "1.49",
           "qs": "4",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "64021",
@@ -10219,7 +10187,7 @@
           "strikeouts": "78",
           "whip": "1.50",
           "qs": "6",
-          "rank": 20
+          "rank": 19
         }
       ]
     },

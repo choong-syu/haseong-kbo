@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 7월 3일 기준",
-  "fetchedAt": "2026-07-04T11:08:25.504Z",
+  "asOf": "2026년 7월 4일 기준",
+  "fetchedAt": "2026-07-04T12:37:14.261Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -1461,13 +1461,8 @@
       "battingAverage": "0.280",
       "atBats": "289",
       "homeRuns": "8",
-      "onBasePercentage": "0.320",
-      "walksHitByPitch": "17",
-      "ops": "0.732",
       "hits": "81",
-      "rbi": "39",
-      "sluggingPercentage": "0.412",
-      "strikeouts": "60"
+      "rbi": "39"
     },
     {
       "id": "67609",
@@ -4713,7 +4708,7 @@
       "era": "4.74",
       "strikeouts": "64",
       "whip": "1.44",
-      "qs": ""
+      "qs": "5"
     },
     {
       "id": "68639",
@@ -4852,11 +4847,11 @@
       "battingAverage": "0.298",
       "atBats": "215",
       "homeRuns": "2",
-      "hits": "64",
-      "rbi": "29",
       "onBasePercentage": "0.365",
       "walksHitByPitch": "24",
       "ops": "0.760",
+      "hits": "64",
+      "rbi": "29",
       "sluggingPercentage": "0.395",
       "strikeouts": "27"
     },
@@ -5258,14 +5253,9 @@
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "롯데 자이언츠 (2018~2019)<br>키움 히어로즈 (2020~2023)<br>삼성 라이온즈 (2024~)",
-      "battingAverage": "0.231",
-      "atBats": "225",
-      "homeRuns": "5",
       "onBasePercentage": "0.353",
       "walksHitByPitch": "44",
       "ops": "0.713",
-      "hits": "52",
-      "rbi": "32",
       "sluggingPercentage": "0.360",
       "strikeouts": "72"
     },
