@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
   "asOf": "2026년 7월 7일 기준",
-  "fetchedAt": "2026-07-08T06:35:41.556Z",
+  "fetchedAt": "2026-07-08T09:16:12.125Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -1364,10 +1364,10 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "KIA 타이거즈 (2015~2017)<br>KIA 타이거즈 (2020~)",
-      "battingAverage": "0.283",
-      "atBats": "322",
+      "battingAverage": "0.280",
+      "atBats": "321",
       "homeRuns": "11",
-      "hits": "91",
+      "hits": "90",
       "rbi": "46"
     },
     {
@@ -5380,9 +5380,9 @@ window.KBO_PLAYER_STATS = {
       "holds": "11",
       "saves": "1",
       "innings": "42",
-      "era": "4.50",
+      "era": "4.29",
       "strikeouts": "47",
-      "whip": "1.55",
+      "whip": "1.52",
       "qs": "0"
     },
     {
