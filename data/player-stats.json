@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 7월 16일 13시 기준",
-  "fetchedAt": "2026-07-16T04:28:26.166Z",
+  "asOf": "2026년 7월 16일 16시 기준",
+  "fetchedAt": "2026-07-16T07:05:39.603Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -1526,9 +1526,9 @@
       "holds": "3",
       "saves": "12",
       "innings": "35",
-      "era": "4.11",
+      "era": "3.34",
       "strikeouts": "28",
-      "whip": "1.46",
+      "whip": "1.43",
       "qs": "0"
     },
     {
@@ -3867,15 +3867,15 @@
       "type": "hitter",
       "pitchBat": "우투좌타",
       "transfer": "롯데 자이언츠 (2025~)",
-      "battingAverage": "0.400",
+      "battingAverage": "0.360",
       "atBats": "25",
       "homeRuns": "1",
-      "onBasePercentage": "0.423",
+      "onBasePercentage": "0.385",
       "walksHitByPitch": "1",
-      "ops": "0.943",
-      "hits": "10",
+      "ops": "0.865",
+      "hits": "9",
       "rbi": "2",
-      "sluggingPercentage": "0.520",
+      "sluggingPercentage": "0.480",
       "strikeouts": "8"
     },
     {
