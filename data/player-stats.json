@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 7월 16일 10시 기준",
-  "fetchedAt": "2026-07-16T01:12:11.791Z",
+  "asOf": "2026년 7월 16일 13시 기준",
+  "fetchedAt": "2026-07-16T04:28:26.166Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -341,7 +341,7 @@
       "id": "77532",
       "name": "손아섭",
       "teamId": "doosan",
-      "number": "8",
+      "number": "24",
       "position": "좌익수",
       "positionGroup": "외야수",
       "type": "hitter",
