@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 7월 18일 20시 기준",
-  "fetchedAt": "2026-07-18T11:19:34.052Z",
+  "asOf": "2026년 7월 18일 21시 기준",
+  "fetchedAt": "2026-07-18T12:30:32.578Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -1367,13 +1367,8 @@ window.KBO_PLAYER_STATS = {
       "battingAverage": "0.280",
       "atBats": "336",
       "homeRuns": "11",
-      "onBasePercentage": "0.325",
-      "walksHitByPitch": "25",
-      "ops": "0.774",
       "hits": "94",
-      "rbi": "46",
-      "sluggingPercentage": "0.449",
-      "strikeouts": "97"
+      "rbi": "46"
     },
     {
       "id": "62947",
@@ -2447,6 +2442,11 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "삼성 라이온즈 (2009~2022)<br>kt wiz (2023~)",
+      "battingAverage": "0.281",
+      "atBats": "249",
+      "homeRuns": "0",
+      "hits": "70",
+      "rbi": "24",
       "onBasePercentage": "0.384",
       "walksHitByPitch": "42",
       "ops": "0.705",
@@ -3154,14 +3154,9 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "넥센 (2010)<br>넥센 (2013~2018)<br>키움 히어로즈 (2019~2021)<br>KIA 타이거즈 (2022)<br>LG 트윈스 (2023~)",
-      "battingAverage": "0.238",
-      "atBats": "223",
-      "homeRuns": "9",
       "onBasePercentage": "0.354",
       "walksHitByPitch": "42",
       "ops": "0.762",
-      "hits": "53",
-      "rbi": "39",
       "sluggingPercentage": "0.408",
       "strikeouts": "66"
     },
@@ -4136,8 +4131,13 @@ window.KBO_PLAYER_STATS = {
       "battingAverage": "0.287",
       "atBats": "244",
       "homeRuns": "0",
+      "onBasePercentage": "0.333",
+      "walksHitByPitch": "18",
+      "ops": "0.694",
       "hits": "70",
-      "rbi": "20"
+      "rbi": "20",
+      "sluggingPercentage": "0.361",
+      "strikeouts": "43"
     },
     {
       "id": "56949",
@@ -4851,11 +4851,11 @@ window.KBO_PLAYER_STATS = {
       "battingAverage": "0.300",
       "atBats": "230",
       "homeRuns": "2",
-      "hits": "69",
-      "rbi": "31",
       "onBasePercentage": "0.371",
       "walksHitByPitch": "27",
       "ops": "0.762",
+      "hits": "69",
+      "rbi": "31",
       "sluggingPercentage": "0.391",
       "strikeouts": "30"
     },

@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 7월 18일 20시 기준",
-  "fetchedAt": "2026-07-18T11:19:34.079Z",
+  "asOf": "2026년 7월 18일 21시 기준",
+  "fetchedAt": "2026-07-18T12:30:32.606Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -5817,28 +5817,6 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 15
         },
         {
-          "id": "67449",
-          "name": "김성윤",
-          "team": "삼성",
-          "games": "69",
-          "plateAppearances": "266",
-          "atBats": "230",
-          "hits": "69",
-          "doubles": "11",
-          "triples": "2",
-          "homeRuns": "2",
-          "rbi": "31",
-          "runs": "43",
-          "steals": "14",
-          "walksHitByPitch": "27",
-          "strikeouts": "30",
-          "battingAverage": "0.300",
-          "onBasePercentage": "0.371",
-          "sluggingPercentage": "0.391",
-          "ops": "0.762",
-          "rank": 16
-        },
-        {
           "id": "54400",
           "name": "디아즈",
           "team": "삼성",
@@ -5858,7 +5836,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.381",
           "sluggingPercentage": "0.503",
           "ops": "0.884",
-          "rank": 17
+          "rank": 16
         },
         {
           "id": "52605",
@@ -5880,7 +5858,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.392",
           "sluggingPercentage": "0.610",
           "ops": "1.002",
-          "rank": 18
+          "rank": 17
         },
         {
           "id": "62947",
@@ -5902,7 +5880,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.379",
           "sluggingPercentage": "0.539",
           "ops": "0.918",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "53764",
@@ -5924,7 +5902,29 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.376",
           "sluggingPercentage": "0.473",
           "ops": "0.849",
-          "rank": 19
+          "rank": 18
+        },
+        {
+          "id": "79215",
+          "name": "박건우",
+          "team": "NC",
+          "games": "81",
+          "plateAppearances": "327",
+          "atBats": "276",
+          "hits": "81",
+          "doubles": "11",
+          "triples": "0",
+          "homeRuns": "16",
+          "rbi": "54",
+          "runs": "42",
+          "steals": "6",
+          "walksHitByPitch": "42",
+          "strikeouts": "58",
+          "battingAverage": "0.293",
+          "onBasePercentage": "0.376",
+          "sluggingPercentage": "0.507",
+          "ops": "0.883",
+          "rank": 20
         }
       ]
     },
