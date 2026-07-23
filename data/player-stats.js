@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 7월 23일 20시 기준",
-  "fetchedAt": "2026-07-23T11:22:03.828Z",
+  "asOf": "2026년 7월 23일 22시 기준",
+  "fetchedAt": "2026-07-23T13:06:30.161Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -3896,7 +3896,7 @@ window.KBO_PLAYER_STATS = {
       "era": "4.28",
       "strikeouts": "104",
       "whip": "1.42",
-      "qs": ""
+      "qs": "8"
     },
     {
       "id": "51528",

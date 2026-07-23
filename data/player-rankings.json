@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 7월 23일 20시 기준",
-  "fetchedAt": "2026-07-23T11:22:03.854Z",
+  "asOf": "2026년 7월 23일 22시 기준",
+  "fetchedAt": "2026-07-23T13:06:30.189Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -7534,22 +7534,6 @@
           "rank": 16
         },
         {
-          "id": "56523",
-          "name": "비슬리",
-          "team": "롯데",
-          "era": "4.28",
-          "games": "17",
-          "wins": "6",
-          "losses": "4",
-          "saves": "0",
-          "holds": "0",
-          "innings": "90 1/3",
-          "strikeouts": "104",
-          "whip": "1.42",
-          "qs": "8",
-          "rank": 17
-        },
-        {
           "id": "56531",
           "name": "로드리게스",
           "team": "롯데",
@@ -7563,7 +7547,7 @@
           "strikeouts": "107",
           "whip": "1.33",
           "qs": "8",
-          "rank": 18
+          "rank": 17
         },
         {
           "id": "56032",
@@ -7579,7 +7563,7 @@
           "strikeouts": "68",
           "whip": "1.34",
           "qs": "9",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "64021",
@@ -7595,7 +7579,7 @@
           "strikeouts": "89",
           "whip": "1.48",
           "qs": "7",
-          "rank": 20
+          "rank": 19
         }
       ]
     },
@@ -10142,22 +10126,6 @@
           "rank": 15
         },
         {
-          "id": "56523",
-          "name": "비슬리",
-          "team": "롯데",
-          "era": "4.28",
-          "games": "17",
-          "wins": "6",
-          "losses": "4",
-          "saves": "0",
-          "holds": "0",
-          "innings": "90 1/3",
-          "strikeouts": "104",
-          "whip": "1.42",
-          "qs": "8",
-          "rank": 16
-        },
-        {
           "id": "67539",
           "name": "나균안",
           "team": "롯데",
@@ -10171,7 +10139,7 @@
           "strikeouts": "83",
           "whip": "1.43",
           "qs": "7",
-          "rank": 17
+          "rank": 16
         },
         {
           "id": "61101",
@@ -10187,23 +10155,7 @@
           "strikeouts": "54",
           "whip": "1.44",
           "qs": "7",
-          "rank": 18
-        },
-        {
-          "id": "56911",
-          "name": "토다",
-          "team": "NC",
-          "era": "5.03",
-          "games": "17",
-          "wins": "4",
-          "losses": "7",
-          "saves": "0",
-          "holds": "0",
-          "innings": "87 2/3",
-          "strikeouts": "74",
-          "whip": "1.48",
-          "qs": "5",
-          "rank": 19
+          "rank": 17
         },
         {
           "id": "64021",
@@ -10219,6 +10171,22 @@
           "strikeouts": "89",
           "whip": "1.48",
           "qs": "7",
+          "rank": 18
+        },
+        {
+          "id": "56719",
+          "name": "왕옌청",
+          "team": "한화",
+          "era": "3.69",
+          "games": "18",
+          "wins": "7",
+          "losses": "4",
+          "saves": "0",
+          "holds": "0",
+          "innings": "90 1/3",
+          "strikeouts": "72",
+          "whip": "1.52",
+          "qs": "4",
           "rank": 19
         }
       ]
