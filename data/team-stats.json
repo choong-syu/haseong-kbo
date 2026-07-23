@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 7월 23일 22시 기준",
-  "fetchedAt": "2026-07-23T13:06:30.159Z",
+  "asOf": "2026년 7월 24일 00시 기준",
+  "fetchedAt": "2026-07-23T15:27:01.774Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -11,18 +11,18 @@
     {
       "id": "samsung",
       "rank": 1,
-      "games": 90,
-      "wins": 54,
+      "games": 91,
+      "wins": 55,
       "losses": 34,
       "draws": 2,
-      "winPct": "0.614",
+      "winPct": "0.618",
       "battingAverage": "0.277",
       "homeRuns": 80,
-      "runs": 511,
-      "hits": 858,
-      "era": "4.11",
-      "runsAllowed": 399,
-      "strikeouts": 668
+      "runs": 514,
+      "hits": 866,
+      "era": "4.07",
+      "runsAllowed": 400,
+      "strikeouts": 674
     },
     {
       "id": "kt",
@@ -43,18 +43,18 @@
     {
       "id": "lg",
       "rank": 3,
-      "games": 90,
+      "games": 91,
       "wins": 52,
-      "losses": 38,
+      "losses": 39,
       "draws": 0,
-      "winPct": "0.578",
+      "winPct": "0.571",
       "battingAverage": "0.270",
       "homeRuns": 79,
-      "runs": 447,
-      "hits": 811,
-      "era": "4.56",
-      "runsAllowed": 428,
-      "strikeouts": 599
+      "runs": 452,
+      "hits": 822,
+      "era": "4.59",
+      "runsAllowed": 435,
+      "strikeouts": 604
     },
     {
       "id": "kia",
@@ -65,12 +65,12 @@
       "draws": 2,
       "winPct": "0.538",
       "battingAverage": "0.268",
-      "homeRuns": 110,
-      "runs": 487,
-      "hits": 848,
-      "era": "4.25",
-      "runsAllowed": 428,
-      "strikeouts": 655
+      "homeRuns": 111,
+      "runs": 490,
+      "hits": 854,
+      "era": "4.29",
+      "runsAllowed": 437,
+      "strikeouts": 662
     },
     {
       "id": "doosan",
@@ -97,28 +97,28 @@
       "draws": 3,
       "winPct": "0.488",
       "battingAverage": "0.275",
-      "homeRuns": 101,
-      "runs": 513,
-      "hits": 855,
-      "era": "4.61",
-      "runsAllowed": 458,
-      "strikeouts": 636
+      "homeRuns": 103,
+      "runs": 522,
+      "hits": 865,
+      "era": "4.59",
+      "runsAllowed": 461,
+      "strikeouts": 645
     },
     {
       "id": "nc",
       "rank": 7,
-      "games": 87,
-      "wins": 41,
+      "games": 88,
+      "wins": 42,
       "losses": 45,
       "draws": 1,
-      "winPct": "0.477",
+      "winPct": "0.483",
       "battingAverage": "0.277",
-      "homeRuns": 87,
-      "runs": 455,
-      "hits": 824,
+      "homeRuns": 88,
+      "runs": 462,
+      "hits": 835,
       "era": "4.65",
-      "runsAllowed": 450,
-      "strikeouts": 700
+      "runsAllowed": 455,
+      "strikeouts": 707
     },
     {
       "id": "lotte",
@@ -130,11 +130,11 @@
       "winPct": "0.449",
       "battingAverage": "0.259",
       "homeRuns": 66,
-      "runs": 396,
-      "hits": 808,
-      "era": "4.46",
-      "runsAllowed": 444,
-      "strikeouts": 721
+      "runs": 398,
+      "hits": 815,
+      "era": "4.45",
+      "runsAllowed": 449,
+      "strikeouts": 731
     },
     {
       "id": "ssg",
@@ -145,28 +145,28 @@
       "draws": 3,
       "winPct": "0.378",
       "battingAverage": "0.260",
-      "homeRuns": 102,
-      "runs": 448,
-      "hits": 822,
-      "era": "5.85",
-      "runsAllowed": 576,
-      "strikeouts": 691
+      "homeRuns": 103,
+      "runs": 453,
+      "hits": 831,
+      "era": "5.81",
+      "runsAllowed": 578,
+      "strikeouts": 698
     },
     {
       "id": "kiwoom",
       "rank": 10,
-      "games": 93,
+      "games": 94,
       "wins": 33,
-      "losses": 58,
+      "losses": 59,
       "draws": 2,
-      "winPct": "0.363",
-      "battingAverage": "0.238",
-      "homeRuns": 59,
-      "runs": 338,
-      "hits": 746,
-      "era": "5.00",
-      "runsAllowed": 494,
-      "strikeouts": 699
+      "winPct": "0.359",
+      "battingAverage": "0.239",
+      "homeRuns": 60,
+      "runs": 339,
+      "hits": 758,
+      "era": "4.95",
+      "runsAllowed": 497,
+      "strikeouts": 706
     }
   ]
 }
