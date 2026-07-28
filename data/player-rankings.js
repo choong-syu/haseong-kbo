@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 7월 28일 20시 기준",
-  "fetchedAt": "2026-07-28T11:30:03.436Z",
+  "asOf": "2026년 7월 28일 22시 기준",
+  "fetchedAt": "2026-07-28T13:15:57.022Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -6132,28 +6132,6 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 9
         },
         {
-          "id": "68646",
-          "name": "한준수",
-          "team": "KIA",
-          "games": "84",
-          "plateAppearances": "298",
-          "atBats": "243",
-          "hits": "71",
-          "doubles": "19",
-          "triples": "0",
-          "homeRuns": "7",
-          "rbi": "31",
-          "runs": "31",
-          "steals": "0",
-          "walksHitByPitch": "49",
-          "strikeouts": "45",
-          "battingAverage": "0.292",
-          "onBasePercentage": "0.408",
-          "sluggingPercentage": "0.457",
-          "ops": "0.865",
-          "rank": 10
-        },
-        {
           "id": "79402",
           "name": "김상수",
           "team": "KT",
@@ -6173,7 +6151,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.398",
           "sluggingPercentage": "0.350",
           "ops": "0.748",
-          "rank": 11
+          "rank": 10
         },
         {
           "id": "66108",
@@ -6195,7 +6173,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.397",
           "sluggingPercentage": "0.315",
           "ops": "0.712",
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "75847",
@@ -6217,7 +6195,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.397",
           "sluggingPercentage": "0.616",
           "ops": "1.013",
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "52605",
@@ -6239,7 +6217,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.395",
           "sluggingPercentage": "0.614",
           "ops": "1.009",
-          "rank": 14
+          "rank": 13
         },
         {
           "id": "68050",
@@ -6261,7 +6239,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.388",
           "sluggingPercentage": "0.592",
           "ops": "0.980",
-          "rank": 15
+          "rank": 14
         },
         {
           "id": "53554",
@@ -6283,7 +6261,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.387",
           "sluggingPercentage": "0.415",
           "ops": "0.802",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "53764",
@@ -6305,7 +6283,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.383",
           "sluggingPercentage": "0.476",
           "ops": "0.859",
-          "rank": 17
+          "rank": 16
         },
         {
           "id": "62234",
@@ -6327,7 +6305,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.381",
           "sluggingPercentage": "0.418",
           "ops": "0.799",
-          "rank": 18
+          "rank": 17
         },
         {
           "id": "62947",
@@ -6349,7 +6327,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.380",
           "sluggingPercentage": "0.548",
           "ops": "0.928",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "67449",
@@ -6371,7 +6349,29 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.380",
           "sluggingPercentage": "0.412",
           "ops": "0.792",
-          "rank": 19
+          "rank": 18
+        },
+        {
+          "id": "51907",
+          "name": "김주원",
+          "team": "NC",
+          "games": "90",
+          "plateAppearances": "407",
+          "atBats": "358",
+          "hits": "109",
+          "doubles": "16",
+          "triples": "0",
+          "homeRuns": "13",
+          "rbi": "43",
+          "runs": "60",
+          "steals": "22",
+          "walksHitByPitch": "45",
+          "strikeouts": "53",
+          "battingAverage": "0.304",
+          "onBasePercentage": "0.379",
+          "sluggingPercentage": "0.458",
+          "ops": "0.837",
+          "rank": 20
         }
       ]
     },
@@ -6799,25 +6799,25 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 19
         },
         {
-          "id": "68646",
-          "name": "한준수",
-          "team": "KIA",
-          "games": "84",
-          "plateAppearances": "298",
-          "atBats": "243",
-          "hits": "71",
+          "id": "62907",
+          "name": "박민우",
+          "team": "NC",
+          "games": "87",
+          "plateAppearances": "367",
+          "atBats": "309",
+          "hits": "103",
           "doubles": "19",
           "triples": "0",
-          "homeRuns": "7",
-          "rbi": "31",
-          "runs": "31",
-          "steals": "0",
-          "walksHitByPitch": "49",
-          "strikeouts": "45",
-          "battingAverage": "0.292",
-          "onBasePercentage": "0.408",
-          "sluggingPercentage": "0.457",
-          "ops": "0.865",
+          "homeRuns": "6",
+          "rbi": "52",
+          "runs": "54",
+          "steals": "29",
+          "walksHitByPitch": "54",
+          "strikeouts": "48",
+          "battingAverage": "0.333",
+          "onBasePercentage": "0.429",
+          "sluggingPercentage": "0.453",
+          "ops": "0.882",
           "rank": 20
         }
       ]
@@ -7114,28 +7114,6 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 13
         },
         {
-          "id": "68646",
-          "name": "한준수",
-          "team": "KIA",
-          "games": "84",
-          "plateAppearances": "298",
-          "atBats": "243",
-          "hits": "71",
-          "doubles": "19",
-          "triples": "0",
-          "homeRuns": "7",
-          "rbi": "31",
-          "runs": "31",
-          "steals": "0",
-          "walksHitByPitch": "49",
-          "strikeouts": "45",
-          "battingAverage": "0.292",
-          "onBasePercentage": "0.408",
-          "sluggingPercentage": "0.457",
-          "ops": "0.865",
-          "rank": 14
-        },
-        {
           "id": "53764",
           "name": "문현빈",
           "team": "한화",
@@ -7155,7 +7133,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.383",
           "sluggingPercentage": "0.476",
           "ops": "0.859",
-          "rank": 15
+          "rank": 14
         },
         {
           "id": "54400",
@@ -7177,7 +7155,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.374",
           "sluggingPercentage": "0.484",
           "ops": "0.858",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "67893",
@@ -7199,7 +7177,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.422",
           "sluggingPercentage": "0.435",
           "ops": "0.857",
-          "rank": 17
+          "rank": 16
         },
         {
           "id": "69737",
@@ -7221,7 +7199,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.348",
           "sluggingPercentage": "0.504",
           "ops": "0.852",
-          "rank": 18
+          "rank": 17
         },
         {
           "id": "54944",
@@ -7243,7 +7221,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.368",
           "sluggingPercentage": "0.475",
           "ops": "0.843",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "51907",
@@ -7265,6 +7243,28 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.379",
           "sluggingPercentage": "0.458",
           "ops": "0.837",
+          "rank": 19
+        },
+        {
+          "id": "56251",
+          "name": "카메론",
+          "team": "두산",
+          "games": "75",
+          "plateAppearances": "314",
+          "atBats": "279",
+          "hits": "80",
+          "doubles": "19",
+          "triples": "3",
+          "homeRuns": "9",
+          "rbi": "43",
+          "runs": "39",
+          "steals": "9",
+          "walksHitByPitch": "33",
+          "strikeouts": "53",
+          "battingAverage": "0.287",
+          "onBasePercentage": "0.360",
+          "sluggingPercentage": "0.473",
+          "ops": "0.833",
           "rank": 20
         }
       ]
