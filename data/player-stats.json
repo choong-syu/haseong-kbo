@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 7월 29일 20시 기준",
-  "fetchedAt": "2026-07-29T11:41:39.788Z",
+  "asOf": "2026년 7월 29일 22시 기준",
+  "fetchedAt": "2026-07-29T13:26:40.461Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -389,14 +389,9 @@
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "두산 베어스 (2007)<br>두산 베어스 (2010~2018)<br>NC 다이노스 (2019~2022)<br>두산 베어스 (2023~)",
-      "battingAverage": "0.262",
-      "atBats": "309",
-      "homeRuns": "12",
       "onBasePercentage": "0.358",
       "walksHitByPitch": "51",
       "ops": "0.782",
-      "hits": "81",
-      "rbi": "50",
       "sluggingPercentage": "0.424",
       "strikeouts": "40"
     },
@@ -1746,11 +1741,11 @@
       "battingAverage": "0.287",
       "atBats": "247",
       "homeRuns": "7",
-      "hits": "71",
-      "rbi": "31",
       "onBasePercentage": "0.403",
       "walksHitByPitch": "49",
       "ops": "0.852",
+      "hits": "71",
+      "rbi": "31",
       "sluggingPercentage": "0.449",
       "strikeouts": "46"
     },
@@ -4717,7 +4712,7 @@
       "era": "5.38",
       "strikeouts": "77",
       "whip": "1.51",
-      "qs": ""
+      "qs": "5"
     },
     {
       "id": "68639",
@@ -5633,13 +5628,8 @@
       "battingAverage": "0.282",
       "atBats": "333",
       "homeRuns": "15",
-      "onBasePercentage": "0.336",
-      "walksHitByPitch": "29",
-      "ops": "0.798",
       "hits": "94",
-      "rbi": "75",
-      "sluggingPercentage": "0.462",
-      "strikeouts": "58"
+      "rbi": "75"
     },
     {
       "id": "60558",
