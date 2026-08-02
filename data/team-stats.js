@@ -1,7 +1,7 @@
 window.KBO_TEAM_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 2일 21시 기준",
-  "fetchedAt": "2026-08-02T12:09:57.718Z",
+  "asOf": "2026년 8월 2일 22시 기준",
+  "fetchedAt": "2026-08-02T13:59:25.807Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -11,34 +11,34 @@ window.KBO_TEAM_STATS = {
     {
       "id": "kt",
       "rank": 1,
-      "games": 96,
-      "wins": 58,
+      "games": 97,
+      "wins": 59,
       "losses": 36,
       "draws": 2,
-      "winPct": "0.617",
-      "battingAverage": "0.282",
-      "homeRuns": 72,
-      "runs": 532,
-      "hits": 942,
-      "era": "4.46",
-      "runsAllowed": 460,
-      "strikeouts": 730
+      "winPct": "0.621",
+      "battingAverage": "0.283",
+      "homeRuns": 75,
+      "runs": 544,
+      "hits": 957,
+      "era": "4.43",
+      "runsAllowed": 461,
+      "strikeouts": 741
     },
     {
       "id": "samsung",
       "rank": 2,
-      "games": 98,
+      "games": 99,
       "wins": 59,
-      "losses": 37,
+      "losses": 38,
       "draws": 2,
-      "winPct": "0.615",
+      "winPct": "0.608",
       "battingAverage": "0.279",
       "homeRuns": 87,
-      "runs": 561,
-      "hits": 945,
-      "era": "4.17",
-      "runsAllowed": 445,
-      "strikeouts": 732
+      "runs": 568,
+      "hits": 957,
+      "era": "4.21",
+      "runsAllowed": 455,
+      "strikeouts": 735
     },
     {
       "id": "lg",
@@ -48,13 +48,13 @@ window.KBO_TEAM_STATS = {
       "losses": 44,
       "draws": 1,
       "winPct": "0.556",
-      "battingAverage": "0.271",
-      "homeRuns": 89,
-      "runs": 500,
-      "hits": 901,
-      "era": "4.80",
-      "runsAllowed": 498,
-      "strikeouts": 652
+      "battingAverage": "0.270",
+      "homeRuns": 90,
+      "runs": 503,
+      "hits": 907,
+      "era": "4.84",
+      "runsAllowed": 506,
+      "strikeouts": 658
     },
     {
       "id": "doosan",
@@ -64,13 +64,13 @@ window.KBO_TEAM_STATS = {
       "losses": 45,
       "draws": 4,
       "winPct": "0.536",
-      "battingAverage": "0.268",
+      "battingAverage": "0.269",
       "homeRuns": 77,
-      "runs": 459,
-      "hits": 916,
-      "era": "3.77",
-      "runsAllowed": 433,
-      "strikeouts": 846
+      "runs": 467,
+      "hits": 929,
+      "era": "3.76",
+      "runsAllowed": 436,
+      "strikeouts": 858
     },
     {
       "id": "kia",
@@ -91,18 +91,18 @@ window.KBO_TEAM_STATS = {
     {
       "id": "hanwha",
       "rank": 6,
-      "games": 97,
+      "games": 98,
       "wins": 46,
-      "losses": 48,
+      "losses": 49,
       "draws": 3,
-      "winPct": "0.489",
+      "winPct": "0.484",
       "battingAverage": "0.278",
-      "homeRuns": 113,
-      "runs": 573,
-      "hits": 955,
-      "era": "4.73",
-      "runsAllowed": 510,
-      "strikeouts": 697
+      "homeRuns": 114,
+      "runs": 574,
+      "hits": 964,
+      "era": "4.80",
+      "runsAllowed": 522,
+      "strikeouts": 706
     },
     {
       "id": "nc",
@@ -123,18 +123,18 @@ window.KBO_TEAM_STATS = {
     {
       "id": "lotte",
       "rank": 8,
-      "games": 98,
-      "wins": 42,
+      "games": 99,
+      "wins": 43,
       "losses": 54,
       "draws": 2,
-      "winPct": "0.438",
-      "battingAverage": "0.263",
-      "homeRuns": 71,
-      "runs": 439,
-      "hits": 898,
-      "era": "4.44",
-      "runsAllowed": 481,
-      "strikeouts": 797
+      "winPct": "0.443",
+      "battingAverage": "0.264",
+      "homeRuns": 72,
+      "runs": 449,
+      "hits": 911,
+      "era": "4.46",
+      "runsAllowed": 488,
+      "strikeouts": 805
     },
     {
       "id": "ssg",
@@ -144,13 +144,13 @@ window.KBO_TEAM_STATS = {
       "losses": 60,
       "draws": 4,
       "winPct": "0.388",
-      "battingAverage": "0.261",
+      "battingAverage": "0.260",
       "homeRuns": 111,
-      "runs": 502,
-      "hits": 908,
+      "runs": 505,
+      "hits": 915,
       "era": "5.61",
-      "runsAllowed": 613,
-      "strikeouts": 763
+      "runsAllowed": 618,
+      "strikeouts": 773
     },
     {
       "id": "kiwoom",
@@ -161,12 +161,12 @@ window.KBO_TEAM_STATS = {
       "draws": 2,
       "winPct": "0.376",
       "battingAverage": "0.244",
-      "homeRuns": 70,
-      "runs": 398,
-      "hits": 845,
-      "era": "5.08",
-      "runsAllowed": 552,
-      "strikeouts": 768
+      "homeRuns": 72,
+      "runs": 403,
+      "hits": 854,
+      "era": "5.06",
+      "runsAllowed": 555,
+      "strikeouts": 774
     }
   ]
 };
