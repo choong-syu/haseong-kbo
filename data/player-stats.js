@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 14일 16시 기준",
-  "fetchedAt": "2026-08-14T07:53:08.771Z",
+  "asOf": "2026년 8월 14일 18시 기준",
+  "fetchedAt": "2026-08-14T09:14:33.053Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -3324,7 +3324,7 @@ window.KBO_PLAYER_STATS = {
       "id": "55348",
       "name": "웰스",
       "teamId": "lg",
-      "number": "68",
+      "number": "",
       "position": "선발투수",
       "positionGroup": "투수",
       "type": "pitcher",
