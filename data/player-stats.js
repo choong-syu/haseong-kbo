@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 15일 21시 기준",
-  "fetchedAt": "2026-08-15T12:55:08.739Z",
+  "asOf": "2026년 8월 15일 22시 기준",
+  "fetchedAt": "2026-08-15T13:36:33.964Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -671,14 +671,9 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "한화 이글스 (2019~)",
-      "battingAverage": "0.272",
-      "atBats": "383",
-      "homeRuns": "24",
       "onBasePercentage": "0.350",
       "walksHitByPitch": "48",
       "ops": "0.857",
-      "hits": "104",
-      "rbi": "77",
       "sluggingPercentage": "0.507",
       "strikeouts": "117"
     },
@@ -700,7 +695,7 @@ window.KBO_PLAYER_STATS = {
       "era": "3.91",
       "strikeouts": "84",
       "whip": "1.23",
-      "qs": ""
+      "qs": "9"
     },
     {
       "id": "53764",
@@ -1120,11 +1115,11 @@ window.KBO_PLAYER_STATS = {
       "battingAverage": "0.294",
       "atBats": "282",
       "homeRuns": "15",
-      "hits": "83",
-      "rbi": "56",
       "onBasePercentage": "0.364",
       "walksHitByPitch": "32",
       "ops": "0.864",
+      "hits": "83",
+      "rbi": "56",
       "sluggingPercentage": "0.500",
       "strikeouts": "97"
     },
@@ -2461,13 +2456,8 @@ window.KBO_PLAYER_STATS = {
       "battingAverage": "0.280",
       "atBats": "403",
       "homeRuns": "9",
-      "onBasePercentage": "0.347",
-      "walksHitByPitch": "43",
-      "ops": "0.751",
       "hits": "113",
-      "rbi": "67",
-      "sluggingPercentage": "0.404",
-      "strikeouts": "51"
+      "rbi": "67"
     },
     {
       "id": "55912",
@@ -2568,7 +2558,7 @@ window.KBO_PLAYER_STATS = {
       "era": "4.88",
       "strikeouts": "71",
       "whip": "1.45",
-      "qs": ""
+      "qs": "9"
     },
     {
       "id": "50030",
