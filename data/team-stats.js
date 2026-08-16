@@ -1,7 +1,7 @@
 window.KBO_TEAM_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 16일 20시 기준",
-  "fetchedAt": "2026-08-16T11:59:41.960Z",
+  "asOf": "2026년 8월 16일 21시 기준",
+  "fetchedAt": "2026-08-16T12:57:03.412Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -57,29 +57,13 @@ window.KBO_TEAM_STATS = {
       "strikeouts": 716
     },
     {
-      "id": "doosan",
+      "id": "kia",
       "rank": 4,
       "games": 106,
-      "wins": 55,
-      "losses": 47,
-      "draws": 4,
-      "winPct": "0.539",
-      "battingAverage": "0.270",
-      "homeRuns": 80,
-      "runs": 496,
-      "hits": 980,
-      "era": "3.76",
-      "runsAllowed": 459,
-      "strikeouts": 910
-    },
-    {
-      "id": "kia",
-      "rank": 5,
-      "games": 105,
-      "wins": 55,
+      "wins": 56,
       "losses": 48,
       "draws": 2,
-      "winPct": "0.534",
+      "winPct": "0.538",
       "battingAverage": "0.271",
       "homeRuns": 134,
       "runs": 565,
@@ -87,6 +71,22 @@ window.KBO_TEAM_STATS = {
       "era": "4.45",
       "runsAllowed": 510,
       "strikeouts": 747
+    },
+    {
+      "id": "doosan",
+      "rank": 5,
+      "games": 107,
+      "wins": 55,
+      "losses": 48,
+      "draws": 4,
+      "winPct": "0.534",
+      "battingAverage": "0.270",
+      "homeRuns": 80,
+      "runs": 496,
+      "hits": 980,
+      "era": "3.76",
+      "runsAllowed": 459,
+      "strikeouts": 910
     },
     {
       "id": "hanwha",
