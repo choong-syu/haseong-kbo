@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 8월 16일 08시 기준",
-  "fetchedAt": "2026-08-15T23:52:24.587Z",
+  "asOf": "2026년 8월 16일 10시 기준",
+  "fetchedAt": "2026-08-16T01:49:20.802Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
