@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 18일 23시 기준",
-  "fetchedAt": "2026-08-18T14:45:21.337Z",
+  "asOf": "2026년 8월 19일 00시 기준",
+  "fetchedAt": "2026-08-18T15:16:46.088Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -1370,15 +1370,15 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "좌투좌타",
       "transfer": "NC 다이노스 (2013~2021)<br>KIA 타이거즈 (2022~)",
-      "battingAverage": "0.297",
+      "battingAverage": "0.294",
       "atBats": "367",
       "homeRuns": "23",
-      "hits": "109",
+      "hits": "108",
       "rbi": "70",
-      "onBasePercentage": "0.379",
+      "onBasePercentage": "0.376",
       "walksHitByPitch": "50",
-      "ops": "0.921",
-      "sluggingPercentage": "0.542",
+      "ops": "0.916",
+      "sluggingPercentage": "0.540",
       "strikeouts": "113"
     },
     {
