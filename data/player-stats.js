@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 19일 16시 기준",
-  "fetchedAt": "2026-08-19T07:22:25.048Z",
+  "asOf": "2026년 8월 19일 17시 기준",
+  "fetchedAt": "2026-08-19T08:05:38.415Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
