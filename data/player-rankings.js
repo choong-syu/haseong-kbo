@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 8월 20일 21시 기준",
-  "fetchedAt": "2026-08-20T12:04:40.797Z",
+  "asOf": "2026년 8월 20일 22시 기준",
+  "fetchedAt": "2026-08-20T13:13:43.073Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -5663,28 +5663,6 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 8
         },
         {
-          "id": "78168",
-          "name": "서건창",
-          "team": "키움",
-          "games": "76",
-          "plateAppearances": "349",
-          "atBats": "297",
-          "hits": "95",
-          "doubles": "11",
-          "triples": "3",
-          "homeRuns": "2",
-          "rbi": "27",
-          "runs": "49",
-          "steals": "2",
-          "walksHitByPitch": "45",
-          "strikeouts": "32",
-          "battingAverage": "0.320",
-          "onBasePercentage": "0.408",
-          "sluggingPercentage": "0.397",
-          "ops": "0.805",
-          "rank": 9
-        },
-        {
           "id": "53554",
           "name": "김민석",
           "team": "두산",
@@ -5704,7 +5682,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.397",
           "sluggingPercentage": "0.420",
           "ops": "0.817",
-          "rank": 10
+          "rank": 9
         },
         {
           "id": "67449",
@@ -5726,7 +5704,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.384",
           "sluggingPercentage": "0.410",
           "ops": "0.794",
-          "rank": 11
+          "rank": 10
         },
         {
           "id": "63260",
@@ -5748,7 +5726,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.353",
           "sluggingPercentage": "0.415",
           "ops": "0.768",
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "68050",
@@ -5770,7 +5748,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.372",
           "sluggingPercentage": "0.575",
           "ops": "0.947",
-          "rank": 13
+          "rank": 12
         },
         {
           "id": "54400",
@@ -5792,7 +5770,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.382",
           "sluggingPercentage": "0.495",
           "ops": "0.877",
-          "rank": 14
+          "rank": 13
         },
         {
           "id": "56034",
@@ -5814,7 +5792,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.369",
           "sluggingPercentage": "0.572",
           "ops": "0.941",
-          "rank": 15
+          "rank": 14
         },
         {
           "id": "51907",
@@ -5836,7 +5814,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.381",
           "sluggingPercentage": "0.453",
           "ops": "0.834",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "52605",
@@ -5858,7 +5836,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.395",
           "sluggingPercentage": "0.633",
           "ops": "1.028",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "50500",
@@ -5880,7 +5858,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.335",
           "sluggingPercentage": "0.378",
           "ops": "0.713",
-          "rank": 18
+          "rank": 17
         },
         {
           "id": "62947",
@@ -5902,7 +5880,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.374",
           "sluggingPercentage": "0.535",
           "ops": "0.909",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "52764",
@@ -5924,6 +5902,28 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.358",
           "sluggingPercentage": "0.498",
           "ops": "0.856",
+          "rank": 19
+        },
+        {
+          "id": "79215",
+          "name": "박건우",
+          "team": "NC",
+          "games": "99",
+          "plateAppearances": "397",
+          "atBats": "342",
+          "hits": "99",
+          "doubles": "15",
+          "triples": "0",
+          "homeRuns": "16",
+          "rbi": "65",
+          "runs": "44",
+          "steals": "8",
+          "walksHitByPitch": "44",
+          "strikeouts": "67",
+          "battingAverage": "0.289",
+          "onBasePercentage": "0.361",
+          "sluggingPercentage": "0.474",
+          "ops": "0.835",
           "rank": 20
         }
       ]
@@ -6110,28 +6110,6 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 8
         },
         {
-          "id": "78168",
-          "name": "서건창",
-          "team": "키움",
-          "games": "76",
-          "plateAppearances": "349",
-          "atBats": "297",
-          "hits": "95",
-          "doubles": "11",
-          "triples": "3",
-          "homeRuns": "2",
-          "rbi": "27",
-          "runs": "49",
-          "steals": "2",
-          "walksHitByPitch": "45",
-          "strikeouts": "32",
-          "battingAverage": "0.320",
-          "onBasePercentage": "0.408",
-          "sluggingPercentage": "0.397",
-          "ops": "0.805",
-          "rank": 9
-        },
-        {
           "id": "54730",
           "name": "페라자",
           "team": "한화",
@@ -6151,7 +6129,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.405",
           "sluggingPercentage": "0.512",
           "ops": "0.917",
-          "rank": 10
+          "rank": 9
         },
         {
           "id": "53554",
@@ -6173,7 +6151,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.397",
           "sluggingPercentage": "0.420",
           "ops": "0.817",
-          "rank": 11
+          "rank": 10
         },
         {
           "id": "52605",
@@ -6195,7 +6173,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.395",
           "sluggingPercentage": "0.633",
           "ops": "1.028",
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "67449",
@@ -6217,7 +6195,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.384",
           "sluggingPercentage": "0.410",
           "ops": "0.794",
-          "rank": 13
+          "rank": 12
         },
         {
           "id": "54400",
@@ -6239,7 +6217,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.382",
           "sluggingPercentage": "0.495",
           "ops": "0.877",
-          "rank": 14
+          "rank": 13
         },
         {
           "id": "51907",
@@ -6261,7 +6239,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.381",
           "sluggingPercentage": "0.453",
           "ops": "0.834",
-          "rank": 15
+          "rank": 14
         },
         {
           "id": "79402",
@@ -6283,7 +6261,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.380",
           "sluggingPercentage": "0.334",
           "ops": "0.714",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "66108",
@@ -6305,7 +6283,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.376",
           "sluggingPercentage": "0.292",
           "ops": "0.668",
-          "rank": 17
+          "rank": 16
         },
         {
           "id": "78603",
@@ -6327,7 +6305,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.376",
           "sluggingPercentage": "0.327",
           "ops": "0.703",
-          "rank": 17
+          "rank": 16
         },
         {
           "id": "62234",
@@ -6349,7 +6327,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.374",
           "sluggingPercentage": "0.406",
           "ops": "0.780",
-          "rank": 19
+          "rank": 18
         },
         {
           "id": "62415",
@@ -6371,7 +6349,29 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.374",
           "sluggingPercentage": "0.361",
           "ops": "0.735",
-          "rank": 19
+          "rank": 18
+        },
+        {
+          "id": "62947",
+          "name": "나성범",
+          "team": "KIA",
+          "games": "104",
+          "plateAppearances": "423",
+          "atBats": "370",
+          "hits": "108",
+          "doubles": "21",
+          "triples": "0",
+          "homeRuns": "23",
+          "rbi": "70",
+          "runs": "61",
+          "steals": "0",
+          "walksHitByPitch": "50",
+          "strikeouts": "115",
+          "battingAverage": "0.292",
+          "onBasePercentage": "0.374",
+          "sluggingPercentage": "0.535",
+          "ops": "0.909",
+          "rank": 18
         }
       ]
     },

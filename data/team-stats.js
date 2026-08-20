@@ -1,7 +1,7 @@
 window.KBO_TEAM_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 20일 21시 기준",
-  "fetchedAt": "2026-08-20T12:04:40.626Z",
+  "asOf": "2026년 8월 20일 22시 기준",
+  "fetchedAt": "2026-08-20T13:13:43.046Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -105,8 +105,24 @@ window.KBO_TEAM_STATS = {
       "strikeouts": 777
     },
     {
-      "id": "nc",
+      "id": "lotte",
       "rank": 7,
+      "games": 108,
+      "wins": 49,
+      "losses": 57,
+      "draws": 2,
+      "winPct": "0.462",
+      "battingAverage": "0.267",
+      "homeRuns": 84,
+      "runs": 504,
+      "hits": 1000,
+      "era": "4.51",
+      "runsAllowed": 535,
+      "strikeouts": 865
+    },
+    {
+      "id": "nc",
+      "rank": 8,
       "games": 102,
       "wins": 46,
       "losses": 54,
@@ -119,22 +135,6 @@ window.KBO_TEAM_STATS = {
       "era": "4.83",
       "runsAllowed": 553,
       "strikeouts": 823
-    },
-    {
-      "id": "lotte",
-      "rank": 8,
-      "games": 107,
-      "wins": 48,
-      "losses": 57,
-      "draws": 2,
-      "winPct": "0.457",
-      "battingAverage": "0.267",
-      "homeRuns": 84,
-      "runs": 504,
-      "hits": 1000,
-      "era": "4.51",
-      "runsAllowed": 535,
-      "strikeouts": 865
     },
     {
       "id": "ssg",
@@ -155,11 +155,11 @@ window.KBO_TEAM_STATS = {
     {
       "id": "kiwoom",
       "rank": 10,
-      "games": 112,
+      "games": 113,
       "wins": 40,
-      "losses": 70,
+      "losses": 71,
       "draws": 2,
-      "winPct": "0.364",
+      "winPct": "0.360",
       "battingAverage": "0.246",
       "homeRuns": 83,
       "runs": 447,
