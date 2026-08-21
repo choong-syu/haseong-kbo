@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 8월 21일 21시 기준",
-  "fetchedAt": "2026-08-21T12:16:47.383Z",
+  "asOf": "2026년 8월 21일 22시 기준",
+  "fetchedAt": "2026-08-21T13:28:02.026Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -4697,7 +4697,7 @@
       "era": "5.16",
       "strikeouts": "84",
       "whip": "1.54",
-      "qs": ""
+      "qs": "6"
     },
     {
       "id": "68639",

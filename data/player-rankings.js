@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 8월 21일 21시 기준",
-  "fetchedAt": "2026-08-21T12:16:47.490Z",
+  "asOf": "2026년 8월 21일 22시 기준",
+  "fetchedAt": "2026-08-21T13:28:02.066Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -7548,22 +7548,6 @@ window.KBO_PLAYER_RANKINGS = {
           "whip": "1.35",
           "qs": "7",
           "rank": 17
-        },
-        {
-          "id": "56911",
-          "name": "토다",
-          "team": "NC",
-          "era": "5.16",
-          "games": "20",
-          "wins": "5",
-          "losses": "8",
-          "saves": "0",
-          "holds": "0",
-          "innings": "103",
-          "strikeouts": "84",
-          "whip": "1.54",
-          "qs": "6",
-          "rank": 18
         }
       ]
     },
@@ -10140,22 +10124,6 @@ window.KBO_PLAYER_RANKINGS = {
           "whip": "1.45",
           "qs": "7",
           "rank": 17
-        },
-        {
-          "id": "56911",
-          "name": "토다",
-          "team": "NC",
-          "era": "5.16",
-          "games": "20",
-          "wins": "5",
-          "losses": "8",
-          "saves": "0",
-          "holds": "0",
-          "innings": "103",
-          "strikeouts": "84",
-          "whip": "1.54",
-          "qs": "6",
-          "rank": 18
         }
       ]
     },
