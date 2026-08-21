@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 21일 23시 기준",
-  "fetchedAt": "2026-08-21T14:55:34.481Z",
+  "asOf": "2026년 8월 22일 00시 기준",
+  "fetchedAt": "2026-08-21T15:40:47.081Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -3883,15 +3883,15 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "롯데 자이언츠 (2021)<br>롯데 자이언츠 (2023~)",
-      "battingAverage": "0.245",
+      "battingAverage": "0.249",
       "atBats": "257",
       "homeRuns": "6",
-      "onBasePercentage": "0.311",
+      "onBasePercentage": "0.314",
       "walksHitByPitch": "25",
-      "ops": "0.685",
-      "hits": "63",
+      "ops": "0.691",
+      "hits": "64",
       "rbi": "29",
-      "sluggingPercentage": "0.374",
+      "sluggingPercentage": "0.377",
       "strikeouts": "51"
     },
     {
@@ -4459,9 +4459,9 @@ window.KBO_PLAYER_STATS = {
       "holds": "1",
       "saves": "0",
       "innings": "22 1/3",
-      "era": "7.25",
+      "era": "7.66",
       "strikeouts": "29",
-      "whip": "1.66",
+      "whip": "1.70",
       "qs": "0"
     },
     {
