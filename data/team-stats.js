@@ -1,7 +1,7 @@
 window.KBO_TEAM_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 24일 01시 기준",
-  "fetchedAt": "2026-08-23T16:34:40.431Z",
+  "asOf": "2026년 8월 24일 02시 기준",
+  "fetchedAt": "2026-08-23T17:03:56.244Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
