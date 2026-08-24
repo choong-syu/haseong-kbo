@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 8월 24일 17시 기준",
-  "fetchedAt": "2026-08-24T08:07:32.906Z",
+  "asOf": "2026년 8월 24일 18시 기준",
+  "fetchedAt": "2026-08-24T09:07:17.775Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -5244,19 +5244,19 @@
           "games": "95",
           "plateAppearances": "298",
           "atBats": "261",
-          "hits": "62",
+          "hits": "63",
           "doubles": "7",
           "triples": "1",
           "homeRuns": "12",
-          "rbi": "47",
+          "rbi": "48",
           "runs": "32",
           "steals": "0",
           "walksHitByPitch": "31",
           "strikeouts": "94",
-          "battingAverage": "0.238",
-          "onBasePercentage": "0.315",
-          "sluggingPercentage": "0.410",
-          "ops": "0.725",
+          "battingAverage": "0.241",
+          "onBasePercentage": "0.319",
+          "sluggingPercentage": "0.414",
+          "ops": "0.733",
           "rank": 10
         },
         {
@@ -7438,22 +7438,6 @@
           "rank": 10
         },
         {
-          "id": "55239",
-          "name": "잭로그",
-          "team": "두산",
-          "era": "3.91",
-          "games": "22",
-          "wins": "6",
-          "losses": "6",
-          "saves": "0",
-          "holds": "0",
-          "innings": "119 2/3",
-          "strikeouts": "102",
-          "whip": "1.31",
-          "qs": "10",
-          "rank": 11
-        },
-        {
           "id": "67539",
           "name": "나균안",
           "team": "롯데",
@@ -7467,7 +7451,7 @@
           "strikeouts": "101",
           "whip": "1.43",
           "qs": "8",
-          "rank": 12
+          "rank": 11
         },
         {
           "id": "76715",
@@ -7482,6 +7466,22 @@
           "innings": "109 2/3",
           "strikeouts": "89",
           "whip": "1.21",
+          "qs": "9",
+          "rank": 12
+        },
+        {
+          "id": "55239",
+          "name": "잭로그",
+          "team": "두산",
+          "era": "4.06",
+          "games": "22",
+          "wins": "6",
+          "losses": "6",
+          "saves": "0",
+          "holds": "0",
+          "innings": "119 2/3",
+          "strikeouts": "102",
+          "whip": "1.32",
           "qs": "9",
           "rank": 13
         },
@@ -8465,7 +8465,7 @@
           "holds": "0",
           "innings": "106 2/3",
           "strikeouts": "108",
-          "whip": "1.20",
+          "whip": "1.19",
           "qs": "10",
           "rank": 11
         },
@@ -9393,7 +9393,7 @@
           "id": "55239",
           "name": "잭로그",
           "team": "두산",
-          "era": "3.91",
+          "era": "4.06",
           "games": "22",
           "wins": "6",
           "losses": "6",
@@ -9401,8 +9401,8 @@
           "holds": "0",
           "innings": "119 2/3",
           "strikeouts": "102",
-          "whip": "1.31",
-          "qs": "10",
+          "whip": "1.32",
+          "qs": "9",
           "rank": 12
         },
         {
@@ -9665,7 +9665,7 @@
           "holds": "0",
           "innings": "106 2/3",
           "strikeouts": "108",
-          "whip": "1.20",
+          "whip": "1.19",
           "qs": "10",
           "rank": 8
         },
@@ -9737,7 +9737,7 @@
           "id": "55239",
           "name": "잭로그",
           "team": "두산",
-          "era": "3.91",
+          "era": "4.06",
           "games": "22",
           "wins": "6",
           "losses": "6",
@@ -9745,8 +9745,8 @@
           "holds": "0",
           "innings": "119 2/3",
           "strikeouts": "102",
-          "whip": "1.31",
-          "qs": "10",
+          "whip": "1.32",
+          "qs": "9",
           "rank": 12
         },
         {
@@ -10017,7 +10017,7 @@
           "id": "55239",
           "name": "잭로그",
           "team": "두산",
-          "era": "3.91",
+          "era": "4.06",
           "games": "22",
           "wins": "6",
           "losses": "6",
@@ -10025,8 +10025,8 @@
           "holds": "0",
           "innings": "119 2/3",
           "strikeouts": "102",
-          "whip": "1.31",
-          "qs": "10",
+          "whip": "1.32",
+          "qs": "9",
           "rank": 10
         },
         {
@@ -10043,7 +10043,7 @@
           "strikeouts": "140",
           "whip": "1.32",
           "qs": "12",
-          "rank": 11
+          "rank": 10
         },
         {
           "id": "55268",
@@ -10059,7 +10059,7 @@
           "strikeouts": "104",
           "whip": "1.32",
           "qs": "12",
-          "rank": 11
+          "rank": 10
         },
         {
           "id": "56966",
@@ -10385,23 +10385,7 @@
           "holds": "0",
           "innings": "106 2/3",
           "strikeouts": "108",
-          "whip": "1.20",
-          "qs": "10",
-          "rank": 11
-        },
-        {
-          "id": "55239",
-          "name": "잭로그",
-          "team": "두산",
-          "era": "3.91",
-          "games": "22",
-          "wins": "6",
-          "losses": "6",
-          "saves": "0",
-          "holds": "0",
-          "innings": "119 2/3",
-          "strikeouts": "102",
-          "whip": "1.31",
+          "whip": "1.19",
           "qs": "10",
           "rank": 11
         },
@@ -10419,7 +10403,7 @@
           "strikeouts": "89",
           "whip": "1.21",
           "qs": "9",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "56724",
@@ -10435,7 +10419,7 @@
           "strikeouts": "72",
           "whip": "1.19",
           "qs": "9",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "56032",
@@ -10451,7 +10435,7 @@
           "strikeouts": "71",
           "whip": "1.45",
           "qs": "9",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "50030",
@@ -10467,7 +10451,7 @@
           "strikeouts": "73",
           "whip": "1.32",
           "qs": "9",
-          "rank": 16
+          "rank": 15
         },
         {
           "id": "64021",
@@ -10483,7 +10467,23 @@
           "strikeouts": "99",
           "whip": "1.50",
           "qs": "9",
-          "rank": 16
+          "rank": 15
+        },
+        {
+          "id": "56523",
+          "name": "비슬리",
+          "team": "롯데",
+          "era": "4.72",
+          "games": "21",
+          "wins": "8",
+          "losses": "5",
+          "saves": "0",
+          "holds": "0",
+          "innings": "114 1/3",
+          "strikeouts": "121",
+          "whip": "1.42",
+          "qs": "9",
+          "rank": 15
         }
       ]
     }

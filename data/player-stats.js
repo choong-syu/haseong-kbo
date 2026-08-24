@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 24일 17시 기준",
-  "fetchedAt": "2026-08-24T08:07:32.880Z",
+  "asOf": "2026년 8월 24일 18시 기준",
+  "fetchedAt": "2026-08-24T09:07:17.607Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -334,7 +334,7 @@ window.KBO_PLAYER_STATS = {
       "innings": "106 2/3",
       "era": "2.53",
       "strikeouts": "108",
-      "whip": "1.20",
+      "whip": "1.19",
       "qs": "10"
     },
     {
@@ -512,9 +512,9 @@ window.KBO_PLAYER_STATS = {
       "holds": "0",
       "saves": "0",
       "innings": "119 2/3",
-      "era": "3.91",
+      "era": "4.06",
       "strikeouts": "102",
-      "whip": "1.31",
+      "whip": "1.32",
       "qs": ""
     },
     {
@@ -4323,15 +4323,15 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "NC 다이노스 (2018~2020)<br>NC 다이노스 (2023~)",
-      "battingAverage": "0.238",
+      "battingAverage": "0.241",
       "atBats": "261",
       "homeRuns": "12",
-      "onBasePercentage": "0.315",
+      "onBasePercentage": "0.319",
       "walksHitByPitch": "31",
-      "ops": "0.725",
-      "hits": "62",
-      "rbi": "47",
-      "sluggingPercentage": "0.410",
+      "ops": "0.733",
+      "hits": "63",
+      "rbi": "48",
+      "sluggingPercentage": "0.414",
       "strikeouts": "94"
     },
     {
@@ -4627,15 +4627,15 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "NC 다이노스 (2022~)",
-      "battingAverage": "0.305",
+      "battingAverage": "0.299",
       "atBats": "177",
       "homeRuns": "4",
-      "onBasePercentage": "0.359",
+      "onBasePercentage": "0.354",
       "walksHitByPitch": "16",
-      "ops": "0.794",
-      "hits": "54",
+      "ops": "0.783",
+      "hits": "53",
       "rbi": "20",
-      "sluggingPercentage": "0.435",
+      "sluggingPercentage": "0.429",
       "strikeouts": "39"
     },
     {

@@ -1,7 +1,7 @@
 window.KBO_TEAM_STATS = {
   "season": 2026,
-  "asOf": "2026년 8월 24일 17시 기준",
-  "fetchedAt": "2026-08-24T08:07:32.878Z",
+  "asOf": "2026년 8월 24일 18시 기준",
+  "fetchedAt": "2026-08-24T09:07:17.598Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -84,7 +84,7 @@ window.KBO_TEAM_STATS = {
       "homeRuns": 84,
       "runs": 522,
       "hits": 1036,
-      "era": "3.69",
+      "era": "3.71",
       "runsAllowed": 484,
       "strikeouts": 958
     },
