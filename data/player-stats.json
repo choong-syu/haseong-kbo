@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 8월 25일 20시 기준",
-  "fetchedAt": "2026-08-25T11:47:00.953Z",
+  "asOf": "2026년 8월 25일 22시 기준",
+  "fetchedAt": "2026-08-25T13:01:20.613Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -695,7 +695,7 @@
       "era": "4.02",
       "strikeouts": "89",
       "whip": "1.21",
-      "qs": ""
+      "qs": "9"
     },
     {
       "id": "53764",
@@ -1120,11 +1120,11 @@
       "battingAverage": "0.294",
       "atBats": "299",
       "homeRuns": "16",
-      "hits": "88",
-      "rbi": "59",
       "onBasePercentage": "0.366",
       "walksHitByPitch": "35",
       "ops": "0.868",
+      "hits": "88",
+      "rbi": "59",
       "sluggingPercentage": "0.502",
       "strikeouts": "101"
     },
@@ -5728,14 +5728,9 @@
       "type": "hitter",
       "pitchBat": "우투좌타",
       "transfer": "SSG 랜더스 (2024~)",
-      "battingAverage": "0.275",
-      "atBats": "403",
-      "homeRuns": "1",
       "onBasePercentage": "0.352",
       "walksHitByPitch": "50",
       "ops": "0.699",
-      "hits": "111",
-      "rbi": "35",
       "sluggingPercentage": "0.347",
       "strikeouts": "67"
     },
