@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 8월 30일 10시 기준",
-  "fetchedAt": "2026-08-30T01:44:46.777Z",
+  "asOf": "2026년 8월 30일 16시 기준",
+  "fetchedAt": "2026-08-30T07:32:08.889Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -4283,8 +4283,8 @@ window.KBO_PLAYER_RANKINGS = {
           "team": "NC",
           "games": "90",
           "plateAppearances": "194",
-          "atBats": "167",
-          "hits": "49",
+          "atBats": "168",
+          "hits": "50",
           "doubles": "5",
           "triples": "0",
           "homeRuns": "0",
@@ -4293,10 +4293,10 @@ window.KBO_PLAYER_RANKINGS = {
           "steals": "24",
           "walksHitByPitch": "18",
           "strikeouts": "33",
-          "battingAverage": "0.293",
-          "onBasePercentage": "0.362",
-          "sluggingPercentage": "0.323",
-          "ops": "0.685",
+          "battingAverage": "0.298",
+          "onBasePercentage": "0.366",
+          "sluggingPercentage": "0.327",
+          "ops": "0.693",
           "rank": 7
         },
         {
