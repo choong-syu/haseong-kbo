@@ -1,7 +1,7 @@
 window.KBO_TEAM_STATS = {
   "season": 2026,
-  "asOf": "2026년 9월 17일 21시 기준",
-  "fetchedAt": "2026-09-17T12:10:03.718Z",
+  "asOf": "2026년 9월 18일 02시 기준",
+  "fetchedAt": "2026-09-17T17:03:46.775Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -59,18 +59,18 @@ window.KBO_TEAM_STATS = {
     {
       "id": "kia",
       "rank": 4,
-      "games": 127,
-      "wins": 68,
+      "games": 128,
+      "wins": 69,
       "losses": 57,
       "draws": 2,
-      "winPct": "0.544",
+      "winPct": "0.548",
       "battingAverage": "0.272",
       "homeRuns": 157,
-      "runs": 682,
-      "hits": 1191,
-      "era": "4.34",
+      "runs": 684,
+      "hits": 1201,
+      "era": "4.31",
       "runsAllowed": 600,
-      "strikeouts": 929
+      "strikeouts": 939
     },
     {
       "id": "doosan",
@@ -91,34 +91,34 @@ window.KBO_TEAM_STATS = {
     {
       "id": "nc",
       "rank": 6,
-      "games": 124,
+      "games": 125,
       "wins": 59,
-      "losses": 63,
+      "losses": 64,
       "draws": 2,
-      "winPct": "0.484",
-      "battingAverage": "0.272",
+      "winPct": "0.480",
+      "battingAverage": "0.271",
       "homeRuns": 117,
-      "runs": 629,
-      "hits": 1151,
-      "era": "4.68",
-      "runsAllowed": 654,
-      "strikeouts": 994
+      "runs": 630,
+      "hits": 1159,
+      "era": "4.66",
+      "runsAllowed": 656,
+      "strikeouts": 1003
     },
     {
       "id": "ssg",
       "rank": 7,
-      "games": 130,
-      "wins": 56,
+      "games": 131,
+      "wins": 57,
       "losses": 69,
       "draws": 5,
-      "winPct": "0.448",
+      "winPct": "0.452",
       "battingAverage": "0.258",
-      "homeRuns": 133,
-      "runs": 639,
-      "hits": 1154,
-      "era": "5.26",
-      "runsAllowed": 733,
-      "strikeouts": 999
+      "homeRuns": 134,
+      "runs": 641,
+      "hits": 1158,
+      "era": "5.22",
+      "runsAllowed": 734,
+      "strikeouts": 1005
     },
     {
       "id": "hanwha",
@@ -155,18 +155,18 @@ window.KBO_TEAM_STATS = {
     {
       "id": "kiwoom",
       "rank": 10,
-      "games": 131,
+      "games": 132,
       "wins": 45,
-      "losses": 83,
+      "losses": 84,
       "draws": 3,
-      "winPct": "0.352",
+      "winPct": "0.349",
       "battingAverage": "0.242",
       "homeRuns": 93,
       "runs": 497,
-      "hits": 1069,
-      "era": "5.31",
-      "runsAllowed": 746,
-      "strikeouts": 951
+      "hits": 1074,
+      "era": "5.29",
+      "runsAllowed": 748,
+      "strikeouts": 956
     }
   ]
 };
