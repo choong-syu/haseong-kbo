@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 9월 19일 20시 기준",
-  "fetchedAt": "2026-09-19T11:37:16.730Z",
+  "asOf": "2026년 9월 19일 23시 기준",
+  "fetchedAt": "2026-09-19T14:50:27.455Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -11,18 +11,18 @@
     {
       "id": "kt",
       "rank": 1,
-      "games": 127,
-      "wins": 76,
+      "games": 128,
+      "wins": 77,
       "losses": 47,
       "draws": 4,
-      "winPct": "0.618",
-      "battingAverage": "0.280",
-      "homeRuns": 98,
-      "runs": 705,
-      "hits": 1241,
-      "era": "4.27",
-      "runsAllowed": 585,
-      "strikeouts": 1004
+      "winPct": "0.621",
+      "battingAverage": "0.282",
+      "homeRuns": 100,
+      "runs": 720,
+      "hits": 1257,
+      "era": "4.24",
+      "runsAllowed": 588,
+      "strikeouts": 1013
     },
     {
       "id": "samsung",
@@ -33,12 +33,12 @@
       "draws": 3,
       "winPct": "0.598",
       "battingAverage": "0.277",
-      "homeRuns": 119,
-      "runs": 740,
-      "hits": 1232,
-      "era": "4.14",
-      "runsAllowed": 578,
-      "strikeouts": 991
+      "homeRuns": 120,
+      "runs": 743,
+      "hits": 1238,
+      "era": "4.15",
+      "runsAllowed": 583,
+      "strikeouts": 996
     },
     {
       "id": "lg",
@@ -49,12 +49,12 @@
       "draws": 1,
       "winPct": "0.574",
       "battingAverage": "0.267",
-      "homeRuns": 121,
-      "runs": 670,
-      "hits": 1163,
-      "era": "4.86",
-      "runsAllowed": 655,
-      "strikeouts": 872
+      "homeRuns": 122,
+      "runs": 672,
+      "hits": 1169,
+      "era": "4.83",
+      "runsAllowed": 656,
+      "strikeouts": 881
     },
     {
       "id": "kia",
@@ -65,28 +65,28 @@
       "draws": 2,
       "winPct": "0.551",
       "battingAverage": "0.272",
-      "homeRuns": 157,
-      "runs": 684,
-      "hits": 1201,
-      "era": "4.31",
-      "runsAllowed": 600,
-      "strikeouts": 939
+      "homeRuns": 158,
+      "runs": 689,
+      "hits": 1212,
+      "era": "4.28",
+      "runsAllowed": 601,
+      "strikeouts": 950
     },
     {
       "id": "doosan",
       "rank": 5,
-      "games": 130,
+      "games": 131,
       "wins": 65,
-      "losses": 60,
+      "losses": 61,
       "draws": 5,
-      "winPct": "0.520",
-      "battingAverage": "0.265",
+      "winPct": "0.516",
+      "battingAverage": "0.264",
       "homeRuns": 102,
-      "runs": 608,
-      "hits": 1175,
-      "era": "3.66",
-      "runsAllowed": 549,
-      "strikeouts": 1128
+      "runs": 611,
+      "hits": 1181,
+      "era": "3.74",
+      "runsAllowed": 564,
+      "strikeouts": 1137
     },
     {
       "id": "nc",
@@ -96,13 +96,13 @@
       "losses": 66,
       "draws": 2,
       "winPct": "0.472",
-      "battingAverage": "0.271",
+      "battingAverage": "0.270",
       "homeRuns": 120,
-      "runs": 636,
-      "hits": 1166,
+      "runs": 637,
+      "hits": 1171,
       "era": "4.70",
-      "runsAllowed": 665,
-      "strikeouts": 1007
+      "runsAllowed": 670,
+      "strikeouts": 1014
     },
     {
       "id": "ssg",
@@ -129,12 +129,12 @@
       "draws": 2,
       "winPct": "0.437",
       "battingAverage": "0.269",
-      "homeRuns": 99,
-      "runs": 595,
-      "hits": 1197,
-      "era": "4.84",
-      "runsAllowed": 669,
-      "strikeouts": 1025
+      "homeRuns": 100,
+      "runs": 600,
+      "hits": 1206,
+      "era": "4.82",
+      "runsAllowed": 672,
+      "strikeouts": 1034
     },
     {
       "id": "hanwha",
@@ -146,11 +146,11 @@
       "winPct": "0.432",
       "battingAverage": "0.276",
       "homeRuns": 162,
-      "runs": 750,
-      "hits": 1250,
-      "era": "5.24",
-      "runsAllowed": 743,
-      "strikeouts": 942
+      "runs": 751,
+      "hits": 1257,
+      "era": "5.22",
+      "runsAllowed": 745,
+      "strikeouts": 948
     },
     {
       "id": "kiwoom",
