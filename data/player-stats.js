@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 9월 20일 19시 기준",
-  "fetchedAt": "2026-09-20T10:02:24.992Z",
+  "asOf": "2026년 9월 20일 23시 기준",
+  "fetchedAt": "2026-09-20T14:15:47.641Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -2000,15 +2000,15 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투좌타",
       "transfer": "LG 트윈스 (2008)<br>넥센 (2012~2018)<br>키움 히어로즈 (2019~2020)<br>LG 트윈스 (2021~2023)<br>KIA 타이거즈 (2024~2025)<br>키움 히어로즈 (2026~)",
-      "battingAverage": "0.307",
+      "battingAverage": "0.310",
       "atBats": "384",
       "homeRuns": "3",
-      "hits": "118",
+      "hits": "119",
       "rbi": "32",
-      "onBasePercentage": "0.395",
+      "onBasePercentage": "0.397",
       "walksHitByPitch": "56",
-      "ops": "0.786",
-      "sluggingPercentage": "0.391",
+      "ops": "0.790",
+      "sluggingPercentage": "0.393",
       "strikeouts": "48"
     },
     {
@@ -3782,7 +3782,7 @@ window.KBO_PLAYER_STATS = {
       "innings": "151 1/3",
       "era": "4.28",
       "strikeouts": "171",
-      "whip": "1.34",
+      "whip": "1.35",
       "qs": ""
     },
     {
