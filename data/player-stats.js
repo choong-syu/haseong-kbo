@@ -1,7 +1,7 @@
 window.KBO_PLAYER_STATS = {
   "season": 2026,
-  "asOf": "2026년 9월 23일 14시 기준",
-  "fetchedAt": "2026-09-23T05:04:14.053Z",
+  "asOf": "2026년 9월 23일 19시 기준",
+  "fetchedAt": "2026-09-23T10:02:29.759Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -507,9 +507,9 @@ window.KBO_PLAYER_STATS = {
       "holds": "0",
       "saves": "0",
       "innings": "147 1/3",
-      "era": "4.09",
+      "era": "4.15",
       "strikeouts": "127",
-      "whip": "1.28",
+      "whip": "1.29",
       "qs": ""
     },
     {
@@ -978,9 +978,9 @@ window.KBO_PLAYER_STATS = {
       "holds": "3",
       "saves": "0",
       "innings": "36",
-      "era": "4.25",
+      "era": "4.00",
       "strikeouts": "26",
-      "whip": "1.44",
+      "whip": "1.42",
       "qs": "0"
     },
     {
@@ -2349,15 +2349,15 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "키움 히어로즈 (2026~)",
-      "battingAverage": "0.254",
+      "battingAverage": "0.258",
       "atBats": "240",
       "homeRuns": "9",
-      "onBasePercentage": "0.339",
+      "onBasePercentage": "0.343",
       "walksHitByPitch": "32",
-      "ops": "0.747",
-      "hits": "61",
+      "ops": "0.760",
+      "hits": "62",
       "rbi": "35",
-      "sluggingPercentage": "0.408",
+      "sluggingPercentage": "0.417",
       "strikeouts": "82"
     },
     {
@@ -2671,15 +2671,15 @@ window.KBO_PLAYER_STATS = {
       "type": "hitter",
       "pitchBat": "우투우타",
       "transfer": "롯데 자이언츠 (2015)<br>롯데 자이언츠 (2018~2020)<br>kt wiz (2021~)",
-      "battingAverage": "0.294",
+      "battingAverage": "0.289",
       "atBats": "180",
       "homeRuns": "1",
-      "onBasePercentage": "0.348",
+      "onBasePercentage": "0.343",
       "walksHitByPitch": "16",
-      "ops": "0.726",
-      "hits": "53",
-      "rbi": "27",
-      "sluggingPercentage": "0.378",
+      "ops": "0.715",
+      "hits": "52",
+      "rbi": "26",
+      "sluggingPercentage": "0.372",
       "strikeouts": "44"
     },
     {

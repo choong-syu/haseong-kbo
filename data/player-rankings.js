@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 9월 23일 14시 기준",
-  "fetchedAt": "2026-09-23T05:04:14.076Z",
+  "asOf": "2026년 9월 23일 19시 기준",
+  "fetchedAt": "2026-09-23T10:02:29.783Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -7457,7 +7457,7 @@ window.KBO_PLAYER_RANKINGS = {
           "id": "55239",
           "name": "잭로그",
           "team": "두산",
-          "era": "4.09",
+          "era": "4.15",
           "games": "27",
           "wins": "7",
           "losses": "7",
@@ -7465,7 +7465,7 @@ window.KBO_PLAYER_RANKINGS = {
           "holds": "0",
           "innings": "147 1/3",
           "strikeouts": "127",
-          "whip": "1.28",
+          "whip": "1.29",
           "qs": "12",
           "rank": 12
         },
@@ -9329,7 +9329,7 @@ window.KBO_PLAYER_RANKINGS = {
           "id": "55239",
           "name": "잭로그",
           "team": "두산",
-          "era": "4.09",
+          "era": "4.15",
           "games": "27",
           "wins": "7",
           "losses": "7",
@@ -9337,7 +9337,7 @@ window.KBO_PLAYER_RANKINGS = {
           "holds": "0",
           "innings": "147 1/3",
           "strikeouts": "127",
-          "whip": "1.28",
+          "whip": "1.29",
           "qs": "12",
           "rank": 8
         },
@@ -9689,7 +9689,7 @@ window.KBO_PLAYER_RANKINGS = {
           "id": "55239",
           "name": "잭로그",
           "team": "두산",
-          "era": "4.09",
+          "era": "4.15",
           "games": "27",
           "wins": "7",
           "losses": "7",
@@ -9697,7 +9697,7 @@ window.KBO_PLAYER_RANKINGS = {
           "holds": "0",
           "innings": "147 1/3",
           "strikeouts": "127",
-          "whip": "1.28",
+          "whip": "1.29",
           "qs": "12",
           "rank": 10
         },
@@ -9982,22 +9982,6 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 7
         },
         {
-          "id": "55239",
-          "name": "잭로그",
-          "team": "두산",
-          "era": "4.09",
-          "games": "27",
-          "wins": "7",
-          "losses": "7",
-          "saves": "0",
-          "holds": "0",
-          "innings": "147 1/3",
-          "strikeouts": "127",
-          "whip": "1.28",
-          "qs": "12",
-          "rank": 8
-        },
-        {
           "id": "55268",
           "name": "최민석",
           "team": "두산",
@@ -10012,6 +9996,22 @@ window.KBO_PLAYER_RANKINGS = {
           "whip": "1.28",
           "qs": "15",
           "rank": 8
+        },
+        {
+          "id": "55239",
+          "name": "잭로그",
+          "team": "두산",
+          "era": "4.15",
+          "games": "27",
+          "wins": "7",
+          "losses": "7",
+          "saves": "0",
+          "holds": "0",
+          "innings": "147 1/3",
+          "strikeouts": "127",
+          "whip": "1.29",
+          "qs": "12",
+          "rank": 9
         },
         {
           "id": "51516",
@@ -10393,7 +10393,7 @@ window.KBO_PLAYER_RANKINGS = {
           "id": "55239",
           "name": "잭로그",
           "team": "두산",
-          "era": "4.09",
+          "era": "4.15",
           "games": "27",
           "wins": "7",
           "losses": "7",
@@ -10401,7 +10401,7 @@ window.KBO_PLAYER_RANKINGS = {
           "holds": "0",
           "innings": "147 1/3",
           "strikeouts": "127",
-          "whip": "1.28",
+          "whip": "1.29",
           "qs": "12",
           "rank": 12
         },
