@@ -1,7 +1,7 @@
 window.KBO_TEAM_STATS = {
   "season": 2026,
-  "asOf": "2026년 9월 25일 16시 기준",
-  "fetchedAt": "2026-09-25T07:35:28.340Z",
+  "asOf": "2026년 9월 25일 22시 기준",
+  "fetchedAt": "2026-09-25T13:01:16.383Z",
   "source": {
     "standings": "https://eng.koreabaseball.com/Standings/TeamStandings.aspx",
     "hitter": "https://m.koreabaseball.com/Kbo/Record/TeamRecord_hitter.aspx",
@@ -91,18 +91,18 @@ window.KBO_TEAM_STATS = {
     {
       "id": "nc",
       "rank": 6,
-      "games": 131,
-      "wins": 60,
+      "games": 132,
+      "wins": 61,
       "losses": 69,
       "draws": 2,
-      "winPct": "0.465",
+      "winPct": "0.469",
       "battingAverage": "0.270",
       "homeRuns": 125,
-      "runs": 660,
-      "hits": 1207,
+      "runs": 668,
+      "hits": 1218,
       "era": "4.70",
-      "runsAllowed": 692,
-      "strikeouts": 1038
+      "runsAllowed": 699,
+      "strikeouts": 1044
     },
     {
       "id": "lotte",
@@ -139,18 +139,18 @@ window.KBO_TEAM_STATS = {
     {
       "id": "hanwha",
       "rank": 9,
-      "games": 132,
+      "games": 133,
       "wins": 54,
-      "losses": 74,
+      "losses": 75,
       "draws": 4,
-      "winPct": "0.422",
+      "winPct": "0.419",
       "battingAverage": "0.274",
-      "homeRuns": 164,
-      "runs": 759,
-      "hits": 1276,
-      "era": "5.25",
-      "runsAllowed": 765,
-      "strikeouts": 966
+      "homeRuns": 166,
+      "runs": 766,
+      "hits": 1287,
+      "era": "5.27",
+      "runsAllowed": 773,
+      "strikeouts": 973
     },
     {
       "id": "kiwoom",
