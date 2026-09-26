@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 9월 26일 09시 기준",
-  "fetchedAt": "2026-09-26T00:07:24.505Z",
+  "asOf": "2026년 9월 26일 14시 기준",
+  "fetchedAt": "2026-09-26T05:05:34.163Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -1145,7 +1145,7 @@
       "innings": "127 1/3",
       "era": "3.75",
       "strikeouts": "92",
-      "whip": "1.26",
+      "whip": "1.27",
       "qs": "11"
     },
     {
@@ -3284,15 +3284,15 @@
       "type": "hitter",
       "pitchBat": "우투좌타",
       "transfer": "LG 트윈스 (2009~)",
-      "battingAverage": "0.241",
+      "battingAverage": "0.243",
       "atBats": "370",
       "homeRuns": "13",
-      "onBasePercentage": "0.322",
+      "onBasePercentage": "0.325",
       "walksHitByPitch": "46",
-      "ops": "0.717",
-      "hits": "89",
+      "ops": "0.722",
+      "hits": "90",
       "rbi": "58",
-      "sluggingPercentage": "0.395",
+      "sluggingPercentage": "0.397",
       "strikeouts": "89"
     },
     {

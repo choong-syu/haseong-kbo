@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 9월 26일 09시 기준",
-  "fetchedAt": "2026-09-26T00:07:24.525Z",
+  "asOf": "2026년 9월 26일 14시 기준",
+  "fetchedAt": "2026-09-26T05:05:34.366Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -8225,7 +8225,7 @@ window.KBO_PLAYER_RANKINGS = {
           "holds": "0",
           "innings": "127 1/3",
           "strikeouts": "92",
-          "whip": "1.26",
+          "whip": "1.27",
           "qs": "11",
           "rank": 2
         },
@@ -10369,7 +10369,7 @@ window.KBO_PLAYER_RANKINGS = {
           "holds": "0",
           "innings": "127 1/3",
           "strikeouts": "92",
-          "whip": "1.26",
+          "whip": "1.27",
           "qs": "11",
           "rank": 16
         },
