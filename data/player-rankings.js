@@ -1,7 +1,7 @@
 window.KBO_PLAYER_RANKINGS = {
   "season": 2026,
-  "asOf": "2026년 10월 26일 14시 기준",
-  "fetchedAt": "2026-10-26T05:26:02.205Z",
+  "asOf": "2026년 10월 26일 20시 기준",
+  "fetchedAt": "2026-10-26T11:28:02.903Z",
   "source": {
     "hitterBasic": "https://eng.koreabaseball.com/Stats/BattingLeaders.aspx",
     "hitterDetail": "https://eng.koreabaseball.com/Stats/BattingLeaders02.aspx",
@@ -167,28 +167,6 @@ window.KBO_PLAYER_RANKINGS = {
           "rank": 1
         },
         {
-          "id": "67893",
-          "name": "박성한",
-          "team": "SSG",
-          "games": "144",
-          "plateAppearances": "627",
-          "atBats": "530",
-          "hits": "175",
-          "doubles": "31",
-          "triples": "2",
-          "homeRuns": "5",
-          "rbi": "71",
-          "runs": "96",
-          "steals": "5",
-          "walksHitByPitch": "94",
-          "strikeouts": "84",
-          "battingAverage": "0.330",
-          "onBasePercentage": "0.429",
-          "sluggingPercentage": "0.425",
-          "ops": "0.854",
-          "rank": 1
-        },
-        {
           "id": "54400",
           "name": "디아즈",
           "team": "삼성",
@@ -252,7 +230,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.349",
           "sluggingPercentage": "0.367",
           "ops": "0.716",
-          "rank": 6
+          "rank": 5
         },
         {
           "id": "76290",
@@ -274,7 +252,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.357",
           "sluggingPercentage": "0.420",
           "ops": "0.777",
-          "rank": 7
+          "rank": 6
         },
         {
           "id": "56034",
@@ -296,7 +274,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.374",
           "sluggingPercentage": "0.593",
           "ops": "0.967",
-          "rank": 7
+          "rank": 6
         },
         {
           "id": "79231",
@@ -318,29 +296,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.334",
           "sluggingPercentage": "0.347",
           "ops": "0.681",
-          "rank": 7
-        },
-        {
-          "id": "50854",
-          "name": "최지훈",
-          "team": "SSG",
-          "games": "141",
-          "plateAppearances": "578",
-          "atBats": "519",
-          "hits": "130",
-          "doubles": "26",
-          "triples": "7",
-          "homeRuns": "13",
-          "rbi": "64",
-          "runs": "79",
-          "steals": "21",
-          "walksHitByPitch": "50",
-          "strikeouts": "90",
-          "battingAverage": "0.250",
-          "onBasePercentage": "0.313",
-          "sluggingPercentage": "0.403",
-          "ops": "0.716",
-          "rank": 10
+          "rank": 6
         },
         {
           "id": "65653",
@@ -362,7 +318,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.312",
           "sluggingPercentage": "0.400",
           "ops": "0.712",
-          "rank": 10
+          "rank": 9
         },
         {
           "id": "66606",
@@ -384,7 +340,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.434",
           "sluggingPercentage": "0.485",
           "ops": "0.919",
-          "rank": 12
+          "rank": 10
         },
         {
           "id": "68205",
@@ -406,7 +362,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.328",
           "sluggingPercentage": "0.379",
           "ops": "0.707",
-          "rank": 12
+          "rank": 10
         },
         {
           "id": "62947",
@@ -428,7 +384,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.379",
           "sluggingPercentage": "0.541",
           "ops": "0.920",
-          "rank": 12
+          "rank": 10
         },
         {
           "id": "62234",
@@ -450,7 +406,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.366",
           "sluggingPercentage": "0.381",
           "ops": "0.747",
-          "rank": 15
+          "rank": 13
         },
         {
           "id": "65207",
@@ -472,11 +428,11 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.330",
           "sluggingPercentage": "0.276",
           "ops": "0.606",
-          "rank": 16
+          "rank": 14
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -494,7 +450,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.405",
           "sluggingPercentage": "0.434",
           "ops": "0.839",
-          "rank": 16
+          "rank": 14
         },
         {
           "id": "72443",
@@ -516,7 +472,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.387",
           "sluggingPercentage": "0.462",
           "ops": "0.849",
-          "rank": 18
+          "rank": 16
         },
         {
           "id": "78603",
@@ -538,7 +494,7 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.386",
           "sluggingPercentage": "0.346",
           "ops": "0.732",
-          "rank": 18
+          "rank": 16
         },
         {
           "id": "69100",
@@ -560,7 +516,47 @@ window.KBO_PLAYER_RANKINGS = {
           "onBasePercentage": "0.345",
           "sluggingPercentage": "0.320",
           "ops": "0.665",
-          "rank": 20
+          "rank": 18
+        },
+        {
+          "id": "52605",
+          "name": "김도영",
+          "team": "KIA",
+          "games": "135",
+          "plateAppearances": "593",
+          "atBats": "496",
+          "hits": "153",
+          "doubles": "29",
+          "triples": "2",
+          "homeRuns": "45",
+          "rbi": "118",
+          "runs": "120",
+          "steals": "11",
+          "walksHitByPitch": "92",
+          "strikeouts": "103",
+          "battingAverage": "0.308",
+          "onBasePercentage": "0.413",
+          "sluggingPercentage": "0.647",
+          "ops": "1.060",
+          "rank": 18
+        },
+        {
+          "id": "53554",
+          "name": "김민석",
+          "team": "두산",
+          "games": "135",
+          "plateAppearances": "519",
+          "atBats": "455",
+          "hits": "141",
+          "doubles": "22",
+          "triples": "3",
+          "homeRuns": "5",
+          "rbi": "57",
+          "runs": "61",
+          "steals": "3",
+          "walksHitByPitch": "0",
+          "battingAverage": "0.310",
+          "rank": 18
         }
       ]
     },
@@ -659,7 +655,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -791,7 +787,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51907",
-          "name": "김주원",
+          "name": "KIM Ju Won",
           "team": "NC",
           "games": "131",
           "plateAppearances": "590",
@@ -879,7 +875,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "50854",
-          "name": "최지훈",
+          "name": "CHOI Ji Hoon",
           "team": "SSG",
           "games": "141",
           "plateAppearances": "578",
@@ -967,7 +963,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -1172,7 +1168,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -1216,7 +1212,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "50854",
-          "name": "최지훈",
+          "name": "CHOI Ji Hoon",
           "team": "SSG",
           "games": "141",
           "plateAppearances": "578",
@@ -1238,7 +1234,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51907",
-          "name": "김주원",
+          "name": "KIM Ju Won",
           "team": "NC",
           "games": "131",
           "plateAppearances": "590",
@@ -1436,7 +1432,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -1531,7 +1527,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -1641,7 +1637,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -1817,7 +1813,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51907",
-          "name": "김주원",
+          "name": "KIM Ju Won",
           "team": "NC",
           "games": "131",
           "plateAppearances": "590",
@@ -2044,7 +2040,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -2198,7 +2194,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -2286,7 +2282,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "50854",
-          "name": "최지훈",
+          "name": "CHOI Ji Hoon",
           "team": "SSG",
           "games": "141",
           "plateAppearances": "578",
@@ -2330,7 +2326,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "53827",
-          "name": "에레디아",
+          "name": "HEREDIA Guillermo",
           "team": "SSG",
           "games": "115",
           "plateAppearances": "497",
@@ -2381,7 +2377,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "54812",
-          "name": "정준재",
+          "name": "JEONG Jun Jae",
           "team": "SSG",
           "games": "129",
           "plateAppearances": "549",
@@ -2403,7 +2399,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "50854",
-          "name": "최지훈",
+          "name": "CHOI Ji Hoon",
           "team": "SSG",
           "games": "141",
           "plateAppearances": "578",
@@ -2711,7 +2707,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -3004,7 +3000,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "78224",
-          "name": "김재환",
+          "name": "KIM Jae Hwan",
           "team": "SSG",
           "games": "131",
           "plateAppearances": "527",
@@ -3114,7 +3110,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "75847",
-          "name": "최정",
+          "name": "CHOI Jeong",
           "team": "SSG",
           "games": "71",
           "plateAppearances": "305",
@@ -3136,7 +3132,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "79215",
-          "name": "박건우",
+          "name": "PARK Kun Woo",
           "team": "NC",
           "games": "129",
           "plateAppearances": "500",
@@ -3202,7 +3198,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "53827",
-          "name": "에레디아",
+          "name": "HEREDIA Guillermo",
           "team": "SSG",
           "games": "115",
           "plateAppearances": "497",
@@ -3429,7 +3425,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "53827",
-          "name": "에레디아",
+          "name": "HEREDIA Guillermo",
           "team": "SSG",
           "games": "115",
           "plateAppearances": "497",
@@ -3627,7 +3623,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "79215",
-          "name": "박건우",
+          "name": "PARK Kun Woo",
           "team": "NC",
           "games": "129",
           "plateAppearances": "500",
@@ -3832,7 +3828,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -3920,7 +3916,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51907",
-          "name": "김주원",
+          "name": "KIM Ju Won",
           "team": "NC",
           "games": "131",
           "plateAppearances": "590",
@@ -4008,7 +4004,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -4096,7 +4092,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "50854",
-          "name": "최지훈",
+          "name": "CHOI Ji Hoon",
           "team": "SSG",
           "games": "141",
           "plateAppearances": "578",
@@ -4169,7 +4165,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -4235,7 +4231,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51907",
-          "name": "김주원",
+          "name": "KIM Ju Won",
           "team": "NC",
           "games": "131",
           "plateAppearances": "590",
@@ -4301,7 +4297,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "69992",
-          "name": "최정원",
+          "name": "CHOI Jeong Won",
           "team": "NC",
           "games": "120",
           "plateAppearances": "256",
@@ -4367,7 +4363,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "50854",
-          "name": "최지훈",
+          "name": "CHOI Ji Hoon",
           "team": "SSG",
           "games": "141",
           "plateAppearances": "578",
@@ -4433,7 +4429,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "54812",
-          "name": "정준재",
+          "name": "JEONG Jun Jae",
           "team": "SSG",
           "games": "129",
           "plateAppearances": "549",
@@ -4616,7 +4612,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -4726,7 +4722,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "78224",
-          "name": "김재환",
+          "name": "KIM Jae Hwan",
           "team": "SSG",
           "games": "131",
           "plateAppearances": "527",
@@ -4858,7 +4854,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -5107,7 +5103,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "78224",
-          "name": "김재환",
+          "name": "KIM Jae Hwan",
           "team": "SSG",
           "games": "131",
           "plateAppearances": "527",
@@ -5151,7 +5147,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "68912",
-          "name": "김형준",
+          "name": "KIM Hyung Jun",
           "team": "NC",
           "games": "130",
           "plateAppearances": "408",
@@ -5239,7 +5235,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "50820",
-          "name": "전의산",
+          "name": "JEON Eui San",
           "team": "SSG",
           "games": "86",
           "plateAppearances": "332",
@@ -5576,7 +5572,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -5598,7 +5594,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -5818,7 +5814,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "79215",
-          "name": "박건우",
+          "name": "PARK Kun Woo",
           "team": "NC",
           "games": "129",
           "plateAppearances": "500",
@@ -5906,7 +5902,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "63260",
-          "name": "이우성",
+          "name": "LEE Woo Sung",
           "team": "NC",
           "games": "123",
           "plateAppearances": "446",
@@ -5979,7 +5975,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -6089,7 +6085,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -6353,7 +6349,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "79215",
-          "name": "박건우",
+          "name": "PARK Kun Woo",
           "team": "NC",
           "games": "129",
           "plateAppearances": "500",
@@ -6646,7 +6642,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "79215",
-          "name": "박건우",
+          "name": "PARK Kun Woo",
           "team": "NC",
           "games": "129",
           "plateAppearances": "500",
@@ -6756,7 +6752,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "53827",
-          "name": "에레디아",
+          "name": "HEREDIA Guillermo",
           "team": "SSG",
           "games": "115",
           "plateAppearances": "497",
@@ -7115,7 +7111,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "79215",
-          "name": "박건우",
+          "name": "PARK Kun Woo",
           "team": "NC",
           "games": "129",
           "plateAppearances": "500",
@@ -7137,7 +7133,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67893",
-          "name": "박성한",
+          "name": "PARK Seong Han",
           "team": "SSG",
           "games": "144",
           "plateAppearances": "627",
@@ -7181,7 +7177,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62907",
-          "name": "박민우",
+          "name": "PARK Min Woo",
           "team": "NC",
           "games": "138",
           "plateAppearances": "561",
@@ -7391,7 +7387,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "65933",
-          "name": "구창모",
+          "name": "KOO Chang Mo",
           "team": "NC",
           "era": "4.03",
           "games": "29",
@@ -7551,7 +7547,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "56911",
-          "name": "토다",
+          "name": "TODA Natsuki",
           "team": "NC",
           "era": "5.03",
           "games": "29",
@@ -7639,7 +7635,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "68043",
-          "name": "김민",
+          "name": "KIM Min",
           "team": "SSG",
           "era": "3.36",
           "games": "71",
@@ -7655,7 +7651,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "69969",
-          "name": "전사민",
+          "name": "CHUN Sa Min",
           "team": "NC",
           "era": "5.43",
           "games": "69",
@@ -7735,7 +7731,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "52809",
-          "name": "전영준",
+          "name": "JEON Young Jun",
           "team": "SSG",
           "era": "5.56",
           "games": "63",
@@ -7783,7 +7779,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62869",
-          "name": "문승원",
+          "name": "MOON Seung Won",
           "team": "SSG",
           "era": "3.45",
           "games": "62",
@@ -7983,7 +7979,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "65933",
-          "name": "구창모",
+          "name": "KOO Chang Mo",
           "team": "NC",
           "era": "4.03",
           "games": "29",
@@ -8127,7 +8123,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51867",
-          "name": "김건우",
+          "name": "KIM Keon Woo",
           "team": "SSG",
           "era": "6.38",
           "games": "28",
@@ -8143,7 +8139,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "56840",
-          "name": "김민준",
+          "name": "KIM Min Jun",
           "team": "SSG",
           "era": "3.56",
           "games": "17",
@@ -8279,7 +8275,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51867",
-          "name": "김건우",
+          "name": "KIM Keon Woo",
           "team": "SSG",
           "era": "6.38",
           "games": "28",
@@ -8295,7 +8291,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "56911",
-          "name": "토다",
+          "name": "TODA Natsuki",
           "team": "NC",
           "era": "5.03",
           "games": "29",
@@ -8343,7 +8339,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "56823",
-          "name": "타케다",
+          "name": "TAKEDA Shota",
           "team": "SSG",
           "era": "7.41",
           "games": "28",
@@ -8503,7 +8499,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "65933",
-          "name": "구창모",
+          "name": "KOO Chang Mo",
           "team": "NC",
           "era": "4.03",
           "games": "29",
@@ -8623,7 +8619,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51897",
-          "name": "조병현",
+          "name": "JO Byeong Hyeon",
           "team": "SSG",
           "era": "2.33",
           "games": "56",
@@ -8703,7 +8699,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "69969",
-          "name": "전사민",
+          "name": "CHUN Sa Min",
           "team": "NC",
           "era": "5.43",
           "games": "69",
@@ -8751,7 +8747,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "52902",
-          "name": "임지민",
+          "name": "LIM Ji Min",
           "team": "NC",
           "era": "5.40",
           "games": "49",
@@ -8919,7 +8915,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "68043",
-          "name": "김민",
+          "name": "KIM Min",
           "team": "SSG",
           "era": "3.36",
           "games": "71",
@@ -8999,7 +8995,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "67954",
-          "name": "김진호",
+          "name": "KIM Jin Ho",
           "team": "NC",
           "era": "6.15",
           "games": "58",
@@ -9015,7 +9011,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "62869",
-          "name": "문승원",
+          "name": "MOON Seung Won",
           "team": "SSG",
           "era": "3.45",
           "games": "62",
@@ -9311,7 +9307,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "65933",
-          "name": "구창모",
+          "name": "KOO Chang Mo",
           "team": "NC",
           "era": "4.03",
           "games": "29",
@@ -9471,7 +9467,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "56911",
-          "name": "토다",
+          "name": "TODA Natsuki",
           "team": "NC",
           "era": "5.03",
           "games": "29",
@@ -9607,7 +9603,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "55903",
-          "name": "라일리",
+          "name": "THOMPSON Riley",
           "team": "NC",
           "era": "2.69",
           "games": "22",
@@ -9703,7 +9699,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "65933",
-          "name": "구창모",
+          "name": "KOO Chang Mo",
           "team": "NC",
           "era": "4.03",
           "games": "29",
@@ -9815,7 +9811,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "51867",
-          "name": "김건우",
+          "name": "KIM Keon Woo",
           "team": "SSG",
           "era": "6.38",
           "games": "28",
@@ -9999,7 +9995,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "65933",
-          "name": "구창모",
+          "name": "KOO Chang Mo",
           "team": "NC",
           "era": "4.03",
           "games": "29",
@@ -10143,7 +10139,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "56911",
-          "name": "토다",
+          "name": "TODA Natsuki",
           "team": "NC",
           "era": "5.03",
           "games": "29",
@@ -10263,7 +10259,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "55903",
-          "name": "라일리",
+          "name": "THOMPSON Riley",
           "team": "NC",
           "era": "2.69",
           "games": "22",
@@ -10279,7 +10275,7 @@ window.KBO_PLAYER_RANKINGS = {
         },
         {
           "id": "65933",
-          "name": "구창모",
+          "name": "KOO Chang Mo",
           "team": "NC",
           "era": "4.03",
           "games": "29",
