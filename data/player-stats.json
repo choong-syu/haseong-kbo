@@ -1,7 +1,7 @@
 {
   "season": 2026,
-  "asOf": "2026년 11월 6일 16시 기준",
-  "fetchedAt": "2026-11-06T07:16:36.259Z",
+  "asOf": "2026년 11월 7일 00시 기준",
+  "fetchedAt": "2026-11-06T15:18:53.020Z",
   "source": {
     "roster": "https://www.koreabaseball.com/Player/Register.aspx",
     "hitterBasic": "https://www.koreabaseball.com/Record/Player/HitterBasic/Basic1.aspx",
@@ -2554,7 +2554,7 @@
       "positionGroup": "투수",
       "type": "pitcher",
       "pitchBat": "우투좌타",
-      "transfer": "kt wiz (2021)<br>kt wiz (2023)",
+      "transfer": "kt wiz (2021)<br>kt wiz (2023)<br>kt wiz (2026~)",
       "wins": "3",
       "losses": "2",
       "holds": "1",
@@ -2594,7 +2594,7 @@
       "positionGroup": "투수",
       "type": "pitcher",
       "pitchBat": "우투우타",
-      "transfer": "kt wiz (2021)",
+      "transfer": "kt wiz (2021)<br>kt wiz (2026~)",
       "wins": "10",
       "losses": "3",
       "holds": "0",
